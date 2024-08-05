@@ -131,40 +131,64 @@ Every program starts by calling the main function. This _main_ function acts as 
 
 - ### Boolean Type
   - The Boolean data type can have two values – _true_ or _false_ and hence are typically used in true/false situations.
-  - **For example**, Boolean flag = true;
+  - **For example**,
+```ruby
+          Boolean flag = true;
+```
 
 - ### Byte Type
   - Values for the byte data type range from -128 to 127 (8-bit signed two's complement integer)
   - A byte type is used in place of an int to save memory when it is certain that the value of a variable will be between -128 and 127.
-  - **For example**, byte range = 105;
+  - **For example**,
+```ruby
+          byte range = 105;
+```
 
 - ### Short Type
   - The short data type can have values ranging from -32768 ko 32767 (16-bit signed two's complement integer).
   - If the value of a variable is certain to be between -32768 and 32767, short is used in place of other integer data types (int, long).
-  - **For example**, short loss = -50;
+  - **For example**,
+```ruby
+          short loss = -50;
+```
 
 - ### Int Type
   - Values for the int data type range from - 2<sup>31</sup> ko 2<sup>31</sup> - 1 (32-bit signed two's complement integer)
-  - **For example**, int profit = 5000;
+  - **For example**,
+```ruby
+          int profit = 5000;
+```
 
 - ### Long Type
   - Values for the long data type range from - 2<sup>63</sup> to 2<sup>63</sup> - 1 (64-bik signed two's complement integer).
-  - **For example**, long profit = 455559990;
+  - **For example**,
+```ruby
+          long profit = 455559990;
+```
 
 - ### Double Type
   - The double data type is a 64-bit floating-point data type with double precision.
   - It should never be used for exact values like currency.
-  - **For example**, double height = 12.5;
+  - **For example**,
+```ruby
+          double height = 12.5;
+```
 
 - ### Float Type
   - The float data type is a 32-bit single-precision floating-point value.
   - It should never be used for precise values like money.
-  - **For example**, float depth = - 32.3f;
+  - **For example**,
+```ruby
+          float depth = - 32.3f;
+```
 
 - ## Char Type
   - It's a Unicode (an international character encoding standard that provides a unique number for every character across languages and scripts) 16-bit character.
   - The char data type has a minimum value of 'u0000' (0) and a maximum value of 'uffff'.
-  - **For example**, char temp = 'a';
+  - **For example**,
+```ruby
+          char temp = 'a';
+```
 
 ## Non-primitive data types 
  ![non-primitive-data-types](https://github.com/user-attachments/assets/61e1f4a1-cc7a-4fe9-8555-e90693043fb7)
