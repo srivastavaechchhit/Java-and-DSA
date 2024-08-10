@@ -10,7 +10,7 @@ In Java, we have **three** types of loops:-
 ```ruby
 while (condition) {
         //code
-        }
+}
 ```
 
 ## For Loop
