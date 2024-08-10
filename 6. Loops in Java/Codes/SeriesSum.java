@@ -1,10 +1,8 @@
-/* 
-  S = 1 - 2 + 3 - 4 + 5 - 6...n
-*/
+// S = 1 - 2 + 3 - 4 + 5 - 6...n
 
 import java.util.Scanner;
 
-public class SumSeries {
+public class SeriesSum {
   
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
