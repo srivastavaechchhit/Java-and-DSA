@@ -33,7 +33,6 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [4. Operators in Java](https://github.com/user-attachments/files/16512908/Java.Operators.pdf)
 - [5. Conditonals in Java](https://github.com/user-attachments/files/16569321/Conditionals.pdf)
 - [6. Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)
-
 - **...stay tuned!**
 
 ## Assignments
