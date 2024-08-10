@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class NumberTriangle_Hollow {
+public class NumberTriangleHollow {
   
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
