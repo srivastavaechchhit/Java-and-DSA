@@ -18,6 +18,8 @@ This section contains my detailed notes from each lecture of the Java learning s
 - [2. Variables and Data Types](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/2.%20Variables%20and%20Data%20Types/Notes.md)
 - [3. Taking Input in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/3.%20Taking%20Input%20in%20Java/Notes.md)
 - [4. Operators in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/4.%20Operators%20in%20Java/Notes.md)
+- [5. Conditonals in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/5.%20Conditionals%20in%20Java/Notes.md)
+- [6. Loops in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/6.%20Loops%20in%20Java/Notes.md)
 - **...stay tuned!**
 
 
@@ -29,6 +31,9 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [2. Variables and Data Types](https://github.com/user-attachments/files/16500006/Java.Variables.and.Data.types.pdf)
 - [3. Taking Input in Java](https://github.com/user-attachments/files/16500027/Input.pdf)
 - [4. Operators in Java](https://github.com/user-attachments/files/16512908/Java.Operators.pdf)
+- [5. Conditonals in Java](https://github.com/user-attachments/files/16569321/Conditionals.pdf)
+- [6. Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)
+
 - **...stay tuned!**
 
 ## Assignments
@@ -39,6 +44,8 @@ Explore the assignments given throughout the course. Each assignment folder incl
 - [2. Variables and Data Types](https://github.com/user-attachments/files/16500097/Assignment.Questions.-.Java.Variables.and.Data.Types.pdf)
 - [3. Taking Input in Java](https://github.com/user-attachments/files/16500101/Assignment.Questions.-.Input.pdf)
 - [4. Operators in Java](https://github.com/user-attachments/files/16512916/Assignment.Questions.-.Java.Operators.pdf)
+- [5. Conditonals in Java](https://github.com/user-attachments/files/16569323/Assignment.Questions.-.Conditionals.pdf)
+- [6. Loops in Java](https://github.com/user-attachments/files/16569350/Assignment.Questions.-.Loops.pdf)
 - **...stay tuned!**
 
 ## Contributing
