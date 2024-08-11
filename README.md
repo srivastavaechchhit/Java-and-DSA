@@ -5,12 +5,12 @@ Welcome to my Java Learning Repository! This repository documents my journey as 
 ## Table of Contents
 
 - [Short Notes 📝](#Short-Notes)
-- [Complete Notes](#Complete-Notes)
-- [Assignments](#Assignments)
-- [Contributing](#contributing)
+- [Complete Notes 📚](#Complete-Notes)
+- [Assignments 💻](#Assignments)
+- [Contributing 🤝](#contributing)
 - **...stay tuned!**
 
-## Short Notes
+## Short Notes 📝
 
 This section contains my detailed notes from each lecture of the Java learning series. Each lecture is organized into its own folder with notes in Markdown format.
 
@@ -23,7 +23,7 @@ This section contains my detailed notes from each lecture of the Java learning s
 - **...stay tuned!**
 
 
-## Complete Notes
+## Complete Notes 📚
 
 Here, you'll find PDFs and additional textual notes provided during the course. These resources supplement the topics and help reinforce concepts.
 
@@ -35,7 +35,7 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [6. Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)
 - **...stay tuned!**
 
-## Assignments
+## Assignments  💻
 
 Explore the assignments given throughout the course. Each assignment folder includes questions and solutions to practice and reinforce Java programming skills.
 
@@ -47,6 +47,6 @@ Explore the assignments given throughout the course. Each assignment folder incl
 - [6. Loops in Java](https://github.com/user-attachments/files/16569350/Assignment.Questions.-.Loops.pdf)
 - **...stay tuned!**
 
-## Contributing
+## Contributing  🤝
 
 Contributions to this repository are welcome! If you have notes, solutions, or resources to share, please fork this repository, make your changes, and submit a pull request. Let's learn Java together!
