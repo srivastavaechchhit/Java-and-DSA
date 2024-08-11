@@ -19,7 +19,7 @@ Represent numbers in different forms with different bases.
 
 - (1001)<sub>2</sub> = (1 * 2<sup>3</sup>) + (0 * 2<sup>2</sup>) + (0 * 2<sup>1</sup>) + (1 * 2<sup>0</sup>) = 9
 - (1101)<sub>2</sub> = (1 * 2<sup>3</sup>) + (1 * 2<sup>2</sup>) + (0 * 2<sup>1</sup>) + (1 * 2<sup>0</sup>) = 13
-  ![binary2decimal](https://github.com/user-attachments/assets/06860e01-be9e-43d3-a2b0-efe951a7ed03)
+- ![binary2decimal](https://github.com/user-attachments/assets/8f91c1ef-3019-4293-9956-b154d33c20fd)
 
 
 ## Conversion of Decimal to Binary
@@ -28,4 +28,4 @@ Represent numbers in different forms with different bases.
   - We have to calculate the parity<br>
   - Parity = num % 2
   - Write the remainder at every step in reverse order
-    ![Java-Program-for-Decimal-to-Binary-Conversion-300](https://github.com/user-attachments/assets/aa43b456-8fb4-4a5a-b86b-5a99a311052a)
+  - ![Java-Program-for-Decimal-to-Binary-Conversion-300](https://github.com/user-attachments/assets/98e9008a-7fd8-47ca-ae17-dab1554cbc74)
