@@ -4,7 +4,7 @@ Welcome to my Java Learning Repository! This repository documents my journey as 
 
 ## Table of Contents
 
-- [Short Notes](#Short-Notes)
+- [Short Notes 📝](#Short-Notes)
 - [Complete Notes](#Complete-Notes)
 - [Assignments](#Assignments)
 - [Contributing](#contributing)
