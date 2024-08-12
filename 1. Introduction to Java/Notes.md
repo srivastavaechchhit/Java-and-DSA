@@ -7,7 +7,7 @@ Programming is the process of creating a set of instructions that tell a compute
 - Data structure and algorithms are the foundational blocks of programming.
 
 # What are the applications of programming?
-![what-is-java-used-for](https://github.com/user-attachments/assets/2264feaf-46d8-4d1b-8856-658e46969a86)
+![what-is-java-used-for](https://github.com/user-attachments/assets/6bf50359-ea66-4e10-92bf-439d22b9022a)
 
 If we see around us, we can know thousands of applications of programming.
 For example, If we want our chef to cook maggie, we can simply give instructions in either Hindi or English or in any other language. But if we want our computer to do a certain task for us, we have to give instructions in Binary language (0 and 1), also known as Machine level language or Low level language.
@@ -72,13 +72,13 @@ Meanwhile, compiler also checks for Syntax errors.
 - Secondly, it is neither too difficult like C++ nor too simple like Python.
 
 # Java Architecture
-![Java Architecture](https://github.com/user-attachments/assets/34ce0805-6bd3-4423-b034-0eea44e75d7f)
+![1651746917137](https://github.com/user-attachments/assets/014516af-05e6-4ccf-a3f0-40105bf90116)
 
 - Java also called as compile-once-run-everywhere.
 - The advantage of Java being a platform independent language is that the code becomes portable.
      
 ## Java architecture components
-![JDK](https://github.com/user-attachments/assets/c3d15b4d-c224-4e7c-b323-958fc0e625c3)
+![JDK](https://github.com/user-attachments/assets/ce4983ea-5e82-43d3-bdf2-0ae3616a829f)
 
 - ### JVM (Java Virtual Machine)
   - It translates byte code into machine code
