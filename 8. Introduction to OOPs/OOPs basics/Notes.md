@@ -11,7 +11,8 @@
 - **Objects** are the instances of a class
 - **Attributes**, also known as **member variables** are variables that represent the characteristics or state of an object or class
 - **Methods** can be defined as part of a class and can be called by any object instantiated from that class
-  ![1722338084012](https://github.com/user-attachments/assets/2b639953-d2fd-4266-8158-2e0f4fdc9935)
+  ![1722338084012](https://github.com/user-attachments/assets/00a22cb6-e423-40ed-b90e-4242564586aa)
+
 
 ---
 
@@ -40,7 +41,8 @@
 3. Class name 
 4. Class body
 
-   ![1722340043338](https://github.com/user-attachments/assets/a817d1dc-57e9-4d4f-9d22-aa4dff180924)
+   ![1722340043338](https://github.com/user-attachments/assets/c4a421bd-30c0-44bc-a8c5-6a8ded51c347)
+
 
 ---
 
