@@ -48,7 +48,7 @@
 # Creating an object
 
 ## Syntax: className ObjectName = new className();<br>
-For example,
+**For example,**
 - Car BMW = new Car(); <br>
 - Person Rohan = new Person();
 
