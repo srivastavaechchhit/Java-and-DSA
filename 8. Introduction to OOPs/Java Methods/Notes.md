@@ -102,8 +102,6 @@ public class Main {
 ## Access Modifiers
 ![AccessModifiersinJava](https://github.com/user-attachments/assets/c0c50385-7c9f-4edd-ae43-24fc22d22f87)
 
----
-
 ## Scope of variables in Java
 
 ### Class-level scope
