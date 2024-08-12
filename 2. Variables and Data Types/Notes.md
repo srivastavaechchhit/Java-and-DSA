@@ -191,8 +191,7 @@ Every program starts by calling the main function. This _main_ function acts as 
 ```
 
 ## Non-primitive data types 
- ![non-primitive-data-types](https://github.com/user-attachments/assets/61e1f4a1-cc7a-4fe9-8555-e90693043fb7)
-
+![non-primitive-data-types](https://github.com/user-attachments/assets/d61da8a6-e1f9-498f-ae3c-cd29eb0eafa7)
 
 # Difference between primitive data types and non-primitive data types
 
