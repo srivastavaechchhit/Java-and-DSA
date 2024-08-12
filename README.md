@@ -66,7 +66,6 @@ Explore the assignments given throughout the course. Each assignment folder incl
 - [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
      - [OOPs basics](https://github.com/user-attachments/files/16579580/Assignment.Questions.-.Introduction.to.OOPs.pdf)
      - [Java Methods](https://github.com/user-attachments/files/16579587/Assignment.Questions.-.Java.Methods.pdf)
-
 - **...stay tuned!**
 
 ---
