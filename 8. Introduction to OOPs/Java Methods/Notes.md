@@ -6,12 +6,16 @@
   | can be called directly | must be called by using an object |
   | i.e., bark():          | i.e., fluffy.bark();              |
 
+---
+
 ## Importance of methods
 
 - write once, use multiple times
 - saves time
 - reduces code duplication
 - more readable, more maintainable
+
+---
 
 ## Types of methods
 
@@ -40,6 +44,8 @@
     - method name
     - Parameters
     - Method body
+      
+---
   
 ## Calling a method
 - To call a method in Java, you have to write the method name followed by two parenthesis() and a semicolon.
@@ -61,6 +67,8 @@ public class Main {
   |        static int a;        |                int a;                |
   | single copy for whole class | all objects will have their own copy |
 
+  ---
+
 ### Standard Library Methods
 
 ```ruby
@@ -72,9 +80,13 @@ public class Main {
 
 **Return keyword:** The return keyword finishes the execution of a method, and can be used to return a value from a method.
 
+---
+
 ## Package
 - A collection of similar classes, sub-packages, interfaces.
 - E.g. java.util, java.io, java.net, etc.
+
+---
 
 ## Constructors
 - a special method used to initialize objects
@@ -85,8 +97,12 @@ public class Main {
 1. Default
 2. Parameterized
 
+---
+
 ## Access Modifiers
 ![AccessModifiersinJava](https://github.com/user-attachments/assets/c0c50385-7c9f-4edd-ae43-24fc22d22f87)
+
+---
 
 ## Scope of variables in Java
 
@@ -119,6 +135,8 @@ void demo() {
 }
 ```
 
+---
+
 ## Formal parameters and Actual parameters
 
 |         Formal Parameters          |              Actual Parameters               |
@@ -126,6 +144,8 @@ void demo() {
 | defined during function definition | passed while calling the function or methods |
 | e.g. static int sum(int a, int b)  |         e.g. sum(5, 6) or sum(x, y)          |
 |   a and b are formal parameters    |    (5, 6) or (x, y) are actual parameters    |
+
+---
 
 ## Pass by Value and Pass by Reference
 
