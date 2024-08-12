@@ -61,13 +61,13 @@
 # Accessing variable using the object
 
 ## Syntax: className.variableName
-For example, Rohan.age;
+**For example,** Rohan.age;
 
 ---
 
 # Points to remember
 
 - If we don't assign a value to a variable, the compiler will automatically assign a default value
-  - E.g.: 0 for int, _null_ for String
+  - **E.g.**: 0 for int, _null_ for String
 - In real-time development, it is a better practice to write _main_ method in a separate class
 - One Java file can only have one _public_ class, and the file must be named after that class only
