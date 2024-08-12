@@ -24,6 +24,10 @@ This section contains my detailed notes from each lecture of the Java learning s
 - [4. Operators in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/4.%20Operators%20in%20Java/Notes.md)
 - [5. Conditonals in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/5.%20Conditionals%20in%20Java/Notes.md)
 - [6. Loops in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/6.%20Loops%20in%20Java/Notes.md)
+- [7. Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/7.%20Number%20Systems/Notes.md)
+- [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
+     - [OOPs basics](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/OOPs%20basics/Notes.md)
+     - [Java Methods](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/Java%20Methods/Notes.md)
 - **...stay tuned!**
 
 ---
@@ -39,7 +43,13 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [4. Operators in Java](https://github.com/user-attachments/files/16512908/Java.Operators.pdf)
 - [5. Conditonals in Java](https://github.com/user-attachments/files/16569321/Conditionals.pdf)
 - [6. Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)
+- [7. Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/7.%20Number%20Systems/Notes.md)
+- [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
+     - [OOPs basics](https://github.com/user-attachments/files/16579568/Introduction.to.OOPs.pdf)
+     - [Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)
 - **...stay tuned!**
+
+---
 
 ## 💻 **Assignments**
 
@@ -52,7 +62,14 @@ Explore the assignments given throughout the course. Each assignment folder incl
 - [4. Operators in Java](https://github.com/user-attachments/files/16512916/Assignment.Questions.-.Java.Operators.pdf)
 - [5. Conditonals in Java](https://github.com/user-attachments/files/16569323/Assignment.Questions.-.Conditionals.pdf)
 - [6. Loops in Java](https://github.com/user-attachments/files/16569350/Assignment.Questions.-.Loops.pdf)
+- [7. Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/7.%20Number%20Systems/Codes)
+- [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
+     - [OOPs basics](https://github.com/user-attachments/files/16579580/Assignment.Questions.-.Introduction.to.OOPs.pdf)
+     - [Java Methods](https://github.com/user-attachments/files/16579587/Assignment.Questions.-.Java.Methods.pdf)
+
 - **...stay tuned!**
+
+---
 
 ## 🤝 **Contributing**
 
