@@ -84,7 +84,7 @@ Join the community! Contributions are what make this repository vibrant and reso
 
 ## 🥳 **Thank You for Visiting!**
 
-Stay tuned for regular updates and new resources as I continue my journey in mastering Java and Data Structures. Happy coding! 💻✨
+Stay tuned for regular updates and new resources as I continue my journey in mastering Java & Data Structures and Algorithms. **Happy coding! 💻✨**
 
 *Let’s build something amazing together!*
 
