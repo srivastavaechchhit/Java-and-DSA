@@ -1,5 +1,4 @@
 class Student {
-  
     int rollNo;
     String studentName;
 }
@@ -19,6 +18,7 @@ public class Main {
         obj2.rollNo = 2;
         obj2.studentName = "Rahul";
         System.out.println(obj2.rollNo);
+        System.out.println();
         System.out.println(obj2.studentName);
     }
 }
