@@ -44,3 +44,12 @@
 - We can easily get the required length of the array by using the length inbuilt property.
 - For example, int [] arr = {5, 6, 7, 8, 9}
     - here, arr.length will give the length of this array, i.e., 5
+
+---
+
+## Traversing through an Array
+- We can use loops to traverse through the array. There are many ways to iterate over the array.
+- The most common ways of looping through arrays in Java are:
+    - **For loop**
+    - **For each loop**
+    - **While loop**
