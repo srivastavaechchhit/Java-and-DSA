@@ -72,3 +72,43 @@ for (int i = 0; i < size; i++) {
   arr[i] = sc.nextInt();
 }
 ```
+
+---
+
+## Cloning Array in Java
+
+- If we copy an existing array into a new array, and we try to change some values in the copied array, then it will also reflect in the original array
+- Whenever we use ```int arr2 = arr;``` no new memory is allocated to arr2
+- Actually, the reference is copied and not the actual array
+
+```ruby
+public static void main(String[] args) {
+  int[] arr = new int[5];
+  arr[0] = 5;
+  arr[1] = 6;
+  arr[2] = 7;
+  arr[3] = 8;
+  arr[4] = 9;
+
+  System.out.println("Original Array:");
+  printArray(arr);
+
+  // Trying to copy arr
+  int[] arr2 = arr;
+  System.out.println("Copied Array:");
+  printArray(arr2);
+
+  // Trying to change some values in arr2
+  arr2[0] = 0;
+  arr2[1] = 0;
+
+  System.out.println("Original Array after changing the values in arr2:");
+  printArray(arr);    // 0 0 7 8 9
+
+  System.out.println("Copied Array after changing the values in arr2:");
+  printArray(arr2);   // 0 0 7 8 9
+  }
+```
+
+- This process of copying is known as **Shallow Copy**.
+- To avoid this issue of shallow copying, we use some built-in methods present in Java.
