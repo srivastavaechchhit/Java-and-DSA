@@ -42,7 +42,7 @@
 
 ## Length operation in Arrays
 - We can easily get the required length of the array by using the length inbuilt property.
-- For example, int [] arr = {5, 6, 7, 8, 9}
+- **For example,** int [] arr = {5, 6, 7, 8, 9}
     - here, arr.length will give the length of this array, i.e., 5
 
 ---
@@ -53,3 +53,22 @@
     - **For loop**
     - **For each loop**
     - **While loop**
+
+---
+
+## Taking array input in Java
+
+- Till now, we were creating an array and were assigning values into them, manually.
+- But this is not possible in real time development as we don't know how much data we will be provided to work upon
+- For the same issue, now we'll learn how to create an array by taking an input from the user.
+
+```ruby
+System.out.printlm("Enter Array Size:");
+int size = sc.nextInt();
+
+int [] arr = new int[size];
+
+for (int i = 0; i < size; i++) {
+  arr[i] = sc.nextInt();
+}
+```
