@@ -25,6 +25,7 @@
 ---
 
 ## Memory allocation in arrays
+![1722506676754.jpg](..%2F..%2F..%2F..%2F..%2FDocuments%2F1722506676754.jpg)
 
 ### Types of memory
 - **Stack memory** used to store local variables and function parameters in a last-in, first-out (LIFO) order
