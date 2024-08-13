@@ -112,3 +112,18 @@ public class Reference {
 }
 ```
 **Output:** 0 0 0 0 0
+
+---
+
+### Methods of _Array_ class
+- arrayName.clone();
+  - this method creates a new address in the memory and the values will be copied there
+  - this is a **Deep Copy**
+- Arrays.copyOf();
+  - this is a method in _Arrays_ class of _java.util_ package
+  - it requires two parameters, array name and length for the new array
+- Arrays.copyOfRange();
+  - this is also a method in _Arrays_ class of _java.util_ package
+  - this is used to copy a definite range of elements in an array
+  - it requires three parameters, array name, start index,  and end index
+  - start index is inclusive whereas the end index is exclusive
