@@ -32,8 +32,14 @@
 
 ---
 
-
 ## Accessing elements in Single Dimensional Array
 - Array has **0-based** indexing
 - int [ ] ages = {21, 24, 19, 26, 30}
   - ages[0] = 21, ages[2] = 19, ages[3] = 26, etc.
+
+---
+
+## Length operation in Arrays
+- We can easily get the required length of the array by using the length inbuilt property.
+- For example, int [] arr = {5, 6, 7, 8, 9}
+  - here, arr.length will give the length of this array, i.e., 5
