@@ -112,3 +112,19 @@ public static void main(String[] args) {
 
 - This process of copying is known as **Shallow Copy**.
 - To avoid this issue of shallow copying, we use some built-in methods present in Java.
+
+---
+
+### Methods of _Array_ class
+
+- arrayName.clone();
+  - this method creates a new address in the memory and the values will be copied there
+  - this is a **Deep Copy**
+- Arrays.copyOf();
+  - this is a method in _Arrays_ class of ```java.util``` package
+  - it requires two parameters, array name and length for the new array
+- Arrays.copyOfRange();
+  - this is also a method in _Arrays_ class of ```java.util``` package
+  - this is used to copy a definite range of elements in an array
+  - it requires three parameters, array name, start index, and end index
+  - start index is inclusive whereas the end index is exclusive
