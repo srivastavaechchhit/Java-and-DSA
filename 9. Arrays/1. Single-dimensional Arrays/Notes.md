@@ -128,3 +128,10 @@ public static void main(String[] args) {
   - this is used to copy a definite range of elements in an array
   - it requires three parameters, array name, start index, and end index
   - start index is inclusive whereas the end index is exclusive
+
+---
+
+**_static_ keyword**
+- static methods can only access static variables
+- A static method can only call another static method
+- Static methods cannot refer to non-static variables or methods.
