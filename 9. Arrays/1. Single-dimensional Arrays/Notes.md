@@ -30,3 +30,10 @@
 ### Types of memory
 - **Stack memory** used to store local variables and function parameters in a last-in, first-out (LIFO) order
 - **Heap memory** used to store objects and data structures that need to last longer
+
+---
+
+## Accessing elements in Single Dimensional Array
+- Array has **0-based** indexing
+- int [ ] ages = {21, 24, 19, 26, 30}
+    - ages[0] = 21, ages[2] = 19, ages[3] = 26, etc.
