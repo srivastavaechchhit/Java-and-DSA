@@ -1,6 +1,7 @@
 public class Maximum {
 
-    static int maxInArray(int[] arr) {
+    static int maxInArray() {
+        int[] arr = {20, 21, 2, 6, 19};
         int max = arr[0];
         for (int nums : arr) {
             if (nums > max)
@@ -10,8 +11,6 @@ public class Maximum {
     }
 
     public static void main(String[] args) {
-
-        int[] arr = {20, 21, 2, 6, 19};
-        System.out.println("Maximum: " +maxInArray(arr));
+        System.out.println("Maximum: " +maxInArray());
     }
 }
