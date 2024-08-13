@@ -25,7 +25,7 @@
 ---
 
 ## Memory allocation in arrays
-![1722506676754.jpg](..%2F..%2F..%2F..%2F..%2FDocuments%2F1722506676754.jpg)
+![1722506676754](https://github.com/user-attachments/assets/02e779b0-82cc-4fb2-8d9c-3ccf55ff3ba2)
 
 ### Types of memory
 - **Stack memory** used to store local variables and function parameters in a last-in, first-out (LIFO) order
