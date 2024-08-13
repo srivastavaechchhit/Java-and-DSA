@@ -54,6 +54,8 @@
   - For each loop
   - While loop
 
+---
+
 ## Taking array input in Java
 
 - Till now, we were creating an array and were assigning values into them, manually.
@@ -70,3 +72,42 @@
     arr[i] = sc.nextInt();
   }
 ```
+
+---
+
+## Array Reference in Java
+
+- If we copy an existing array into a new array, and we try to change some values in the copied array, then it will also reflect in the original array
+- Whenever we use ```int arr2 = arr;``` no new memory is allocated to arr2
+- Actually, the reference is copied and not the actual array
+- This process of copying is known as **Shallow Copy**.
+
+```ruby
+public class Reference {
+
+    static void printArray(int[] arr) {
+        for (int nums : arr)
+            System.out.print(nums + " ");
+        System.out.println();
+    }
+
+    static void changeArray(int[] arr) {
+        for (int i = 0; i < arr.length; i++)
+            arr[i] = 0;
+    }
+
+    public static void main(String[] args) {
+
+        int[] arr = new int[5];
+        arr[0] = 5;
+        arr[1] = 6;
+        arr[2] = 7;
+        arr[3] = 8;
+        arr[4] = 9;
+
+        changeArray(arr);
+        printArray(arr);
+    }
+}
+```
+**Output:** 0 0 0 0 0
