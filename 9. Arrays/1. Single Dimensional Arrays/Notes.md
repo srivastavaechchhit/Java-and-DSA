@@ -81,6 +81,7 @@
 - Whenever we use ```int arr2 = arr;``` no new memory is allocated to arr2
 - Actually, the reference is copied and not the actual array
 - This process of copying is known as **Shallow Copy**.
+- To avoid this issue of shallow copying, we use some in-built methods present in Java.
 
 ```ruby
 public class Reference {
