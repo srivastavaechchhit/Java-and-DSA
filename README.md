@@ -47,10 +47,10 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [6. Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)
 - [7. Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/7.%20Number%20Systems/Notes.md)
 - [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
-       - [OOPs basics](https://github.com/user-attachments/files/16579568/Introduction.to.OOPs.pdf)
-       - [Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)
+  - [OOPs basics](https://github.com/user-attachments/files/16579568/Introduction.to.OOPs.pdf)
+  - [Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)
 - [9. Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
-       - [Single-Dimensional Arrays](https://github.com/user-attachments/files/16612179/Arrays.pdf)
+  - [Single-Dimensional Arrays](https://github.com/user-attachments/files/16612179/Arrays.pdf)
 - **...stay tuned!**
 
 ---
