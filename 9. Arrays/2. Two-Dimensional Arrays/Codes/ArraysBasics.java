@@ -14,7 +14,7 @@ class ArraysExample {
     }
 }
 
-public class Arrays {
+public class ArraysBasics {
     public static void main(String[] args) {
         ArraysExample obj = new ArraysExample();
         obj.multiArrays();
