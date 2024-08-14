@@ -27,3 +27,11 @@
 - Array has **0-based** indexing
 - int [ ][ ] ages = {{21, 24}, {19, 26}, {30, 36}}
     - ages[0][1] = 21, ages[1][2] = 26, ages[2][1] = 30, etc.
+
+---
+
+## Length operation in Arrays
+- We can easily get the required length of the array by using the length inbuilt property.
+- For example, int [ ][ ] arr = {5, 6}, {7, 8}, {9, 4}}
+  - here, arr.length will give the length of this array, i.e., 3
+  - also, we can find the length of each array present in the array by using arr[0].length, arr[2].length that comes out to be 2
