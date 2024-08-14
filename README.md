@@ -25,7 +25,7 @@ This section contains my detailed notes from each lecture of the Java learning s
 - [5. Conditionals in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/5.%20Conditionals%20in%20Java/Notes.md)
 - [6. Loops in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/6.%20Loops%20in%20Java/Notes.md)
 - [7. Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/7.%20Number%20Systems/Notes.md)
-- [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs
+- [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
   - [OOPs basics](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/OOPs%20basics/Notes.md)
   - [Java Methods](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/Java%20Methods/Notes.md)
 - [9. Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
