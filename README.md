@@ -1,4 +1,4 @@
-# 🌟 Java & Data Structures and Algorithms 🚀
+[Arrays.pdf](https://github.com/user-attachments/files/16612158/Arrays.pdf)# 🌟 Java & Data Structures and Algorithms 🚀
 
 Welcome to my **Java Learning Repository!** This repository documents my journey as I learn Java programming through a structured series of lectures, assignments, and additional resources. Below is an overview of what you'll find here:
 
@@ -25,9 +25,11 @@ This section contains my detailed notes from each lecture of the Java learning s
 - [5. Conditionals in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/5.%20Conditionals%20in%20Java/Notes.md)
 - [6. Loops in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/6.%20Loops%20in%20Java/Notes.md)
 - [7. Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/7.%20Number%20Systems/Notes.md)
-- [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
-     - [OOPs basics](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/OOPs%20basics/Notes.md)
-     - [Java Methods](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/Java%20Methods/Notes.md)
+- [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs
+  - [OOPs basics](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/OOPs%20basics/Notes.md)
+  - [Java Methods](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/Java%20Methods/Notes.md)
+- [9. Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
+  - [Single-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/9.%20Arrays/1.%20Single-dimensional%20Arrays/Notes.md)
 - **...stay tuned!**
 
 ---
@@ -45,8 +47,10 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [6. Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)
 - [7. Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/7.%20Number%20Systems/Notes.md)
 - [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
-     - [OOPs basics](https://github.com/user-attachments/files/16579568/Introduction.to.OOPs.pdf)
-     - [Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)
+       - [OOPs basics](https://github.com/user-attachments/files/16579568/Introduction.to.OOPs.pdf)
+       - [Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)
+- [9. Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
+       - [Single-Dimensional Arrays](https://github.com/user-attachments/files/16612179/Arrays.pdf)
 - **...stay tuned!**
 
 ---
@@ -66,6 +70,8 @@ Explore the assignments given throughout the course. Each assignment folder incl
 - [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
      - [OOPs basics](https://github.com/user-attachments/files/16579580/Assignment.Questions.-.Introduction.to.OOPs.pdf)
      - [Java Methods](https://github.com/user-attachments/files/16579587/Assignment.Questions.-.Java.Methods.pdf)
+- [9. Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
+  - [Single-Dimensional Arrays](https://github.com/user-attachments/files/16612232/Assignment.Questions.-.Arrays.pdf)
 - **...stay tuned!**
 
 ---
@@ -84,7 +90,7 @@ Join the community! Contributions are what make this repository vibrant and reso
 
 ## 🥳 **Thank You for Visiting!**
 
-Stay tuned for regular updates and new resources as I continue my journey in mastering Java & Data Structures and Algorithms. **Happy coding! 💻✨**
+Stay tuned for regular updates and new resources as I continue my journey in mastering Java & Data Structures and Algorithms. **Happy coding!💻✨**
 
 *Let’s build something amazing together!*
 
