@@ -1,4 +1,4 @@
-[Arrays.pdf](https://github.com/user-attachments/files/16612158/Arrays.pdf)# 🌟 Java & Data Structures and Algorithms 🚀
+# 🌟 Java & Data Structures and Algorithms 🚀
 
 Welcome to my **Java Learning Repository!** This repository documents my journey as I learn Java programming through a structured series of lectures, assignments, and additional resources. Below is an overview of what you'll find here:
 
