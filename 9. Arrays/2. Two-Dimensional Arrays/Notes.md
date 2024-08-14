@@ -35,3 +35,12 @@
 - For example, int [ ][ ] arr = {5, 6}, {7, 8}, {9, 4}}
   - here, arr.length will give the length of this array, i.e., 3
   - also, we can find the length of each array present in the array by using arr[0].length, arr[2].length that comes out to be 2
+
+---
+
+## Traversing through an Array
+- We can use loops to traverse through the array. There are many ways to iterate over the array.
+- The most common ways of looping through arrays in Java are:
+  - For loop
+  - For each loop
+  - While loop
