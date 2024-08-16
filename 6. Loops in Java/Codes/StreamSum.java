@@ -5,7 +5,7 @@ public class StreamSum {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     
-    int sum = 0, num;
+    int sum = 0;
     System.out.println("Enter positive Integers:");
     int num = sc.nextInt();
     
