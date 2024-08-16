@@ -10,8 +10,8 @@ public class StreamSum {
     int num = sc.nextInt();
     
     do {
-      num = sc.nextInt();
       sum += num;
+      num = sc.nextInt();
     } while (num != -1);
     System.out.println("Sum: " +sum);
   }
