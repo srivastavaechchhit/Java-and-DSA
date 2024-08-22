@@ -1,8 +1,9 @@
 # Multi Dimensional Arrays
 - also called **Array of Arrays**
 - can have two, three or any number of dimensions
+- **Jagged Arrays:** A two-dimensional array in which the number of columns are not speicifed or the array can have different number of columns for each row.
 
----
+---  
 
 ## Representation of a Multi-Dimensional Array
 
