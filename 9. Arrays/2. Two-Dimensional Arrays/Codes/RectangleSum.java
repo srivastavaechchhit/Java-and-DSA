@@ -1,3 +1,8 @@
+/*
+    This program contains three approaches of the same problem - from the worst case to the best case.
+    Choose only one at a time to avoid errors.
+    The method named makePrefixSumMatrix is modified according to the method named findSum3 and not suitable for method named findSum2
+*/
 import java.util.Scanner;
 
 public class RectangleSum {
