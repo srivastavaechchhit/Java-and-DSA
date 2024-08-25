@@ -17,3 +17,15 @@
 - The classes and methods of the package ```java.util``` works on objects and not on the primitive data types
 - In the **Collections framework**, there are some data structures like Arraylists, Stacks, and Queues that store 
   objects only.
+
+---
+
+# Arraylist class
+- it is a class present in ```java.util``` package
+- similar to arrays, but with extra functionalities
+- has variable size
+
+## Syntax
+```ruby
+ArrayList<any class> list = new Arraylist<any class>();
+```
