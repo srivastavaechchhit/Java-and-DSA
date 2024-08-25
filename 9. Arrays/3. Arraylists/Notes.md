@@ -15,5 +15,5 @@
   of OOPs as ```int``` is just a normal variable. To overcome this, we have been given the replacement as wrapper
   classes 
 - The classes and methods of the package ```java.util``` works on objects and not on the primitive data types
-- In the **collections framework**, there are some data structures like Arraylists, Stacks and Queues that stores
+- In the **Collections framework**, there are some data structures like Arraylists, Stacks, and Queues that store 
   objects only.
