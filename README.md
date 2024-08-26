@@ -30,6 +30,8 @@ This section contains my detailed notes from each lecture of the Java learning s
   - [Java Methods](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/8.%20Introduction%20to%20OOPs/Java%20Methods/Notes.md)
 - [9. Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
   - [Single-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/9.%20Arrays/1.%20Single-dimensional%20Arrays/Notes.md)
+  - [Two-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/9.%20Arrays/2.%20Two-Dimensional%20Arrays/Notes.md)
+  - [Arraylists](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/9.%20Arrays/3.%20Arraylists/Notes.md)
 - **...stay tuned!**
 
 ---
@@ -51,6 +53,8 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
   - [Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)
 - [9. Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
   - [Single-Dimensional Arrays](https://github.com/user-attachments/files/16612179/Arrays.pdf)
+  - [Two-Dimensional Arrays](https://github.com/user-attachments/files/16744035/Two.Dimensional.Arrays.pdf)
+  - [Arraylists](https://github.com/user-attachments/files/16744073/Arraylist.in.Java.pdf)
 - **...stay tuned!**
 
 ---
@@ -68,10 +72,12 @@ Explore the assignments given throughout the course. Each assignment folder incl
 - [6. Loops in Java](https://github.com/user-attachments/files/16569350/Assignment.Questions.-.Loops.pdf)
 - [7. Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/7.%20Number%20Systems/Codes)
 - [8. Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
-     - [OOPs basics](https://github.com/user-attachments/files/16579580/Assignment.Questions.-.Introduction.to.OOPs.pdf)
-     - [Java Methods](https://github.com/user-attachments/files/16579587/Assignment.Questions.-.Java.Methods.pdf)
+  - [OOPs basics](https://github.com/user-attachments/files/16579580/Assignment.Questions.-.Introduction.to.OOPs.pdf)
+  - [Java Methods](https://github.com/user-attachments/files/16579587/Assignment.Questions.-.Java.Methods.pdf)
 - [9. Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
   - [Single-Dimensional Arrays](https://github.com/user-attachments/files/16612232/Assignment.Questions.-.Arrays.pdf)
+  - [Two-Dimensional Arrays](https://github.com/user-attachments/files/16744072/Assignment.Questions.-.2D.Arrays.pdf)
+  - [Arraylists](https://github.com/user-attachments/files/16744075/Assignment.Questions.-.Arraylist.pdf)
 - **...stay tuned!**
 
 ---
