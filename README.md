@@ -195,7 +195,6 @@ Explore the assignments given throughout the course. Each assignment folder incl
   <summary>Operators in Java</summary>
 
   - [Operators in Java](https://github.com/user-attachments/files/16512916/Assignment.Questions.-.Java.Operators.pdf)
-  - [Bitwise Operators](https://github.com/user-attachments/files/16512916/Assignment.Questions.-.Java.Operators.pdf)
   
 </details>
 
