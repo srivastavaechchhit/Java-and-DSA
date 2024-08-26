@@ -116,17 +116,22 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 <details>
   <summary>Arrays</summary>
 
-  - [Types, Declaration, Creation, Operations](https://github.com/user-attachments/files/16744856/Arrays.pdf)
-  - [Taking Input, Array Reference, Cloning and Copy](https://github.com/user-attachments/files/16744865/Arrays.2.pdf)
-  - [Problem Solving - 1 | Target Sum](https://github.com/user-attachments/files/16744869/Problems.on.arrays.-.Part.1.pdf)
-  - [Problem Solving - 2 | Reverse, Rotate, Search Query](https://github.com/user-attachments/files/16744870/Problems.on.arrays.-.Part.2.pdf)
-  - [Problem Solving - 3 | Two Pointers](https://github.com/user-attachments/files/16744871/Problems.on.Arrays.-.Part.3.pdf)
-  - [Problem Solving - 4 | Prefix Sum, Range Sum Query](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays/1.%20Single-dimensional%20Arrays/Codes)
-  - [2D Arrays | Uses, Taking input](https://github.com/user-attachments/files/16744876/2D.Arrays.pdf)
-  - [2D Arrays Problem Solving - 1 | Matrix Transpose & Rotation, Pascal's Triangle](https://github.com/user-attachments/files/16744877/Problems.on.2D.Arrays.-.Part.1.pdf)
-  - [2D Arrays Problem Solving - 2 | Spiral Matrix Traversal & Generation](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays/2.%20Two-Dimensional%20Arrays/Codes)
-  - [2D Arrays Problem Solving - 3 | Prefix Sum](https://github.com/user-attachments/files/16744881/Problems.on.2D.Arrays.-.Part.3.pdf)
-  - [Arraylist in Java](https://github.com/user-attachments/files/16744883/Array.List.in.Java.pdf)
+  - ### Single-Dimensional Arrays
+    - [Types, Declaration, Creation, Operations](https://github.com/user-attachments/files/16744856/Arrays.pdf)
+    - [Taking Input, Array Reference, Cloning and Copy](https://github.com/user-attachments/files/16744865/Arrays.2.pdf)
+    - [Problem Solving - 1 | Target Sum](https://github.com/user-attachments/files/16744869/Problems.on.arrays.-.Part.1.pdf)
+    - [Problem Solving - 2 | Reverse, Rotate, Search Query](https://github.com/user-attachments/files/16744870/Problems.on.arrays.-.Part.2.pdf)
+    - [Problem Solving - 3 | Two Pointers](https://github.com/user-attachments/files/16744871/Problems.on.Arrays.-.Part.3.pdf)
+    - [Problem Solving - 4 | Prefix Sum, Range Sum Query](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays/1.%20Single-dimensional%20Arrays/Codes)
+      
+  - ### Two-Dimensional Arrays
+    - [2D Arrays | Uses, Taking input](https://github.com/user-attachments/files/16744876/2D.Arrays.pdf)
+    - [2D Arrays Problem Solving - 1 | Matrix Transpose & Rotation, Pascal's Triangle](https://github.com/user-attachments/files/16744877/Problems.on.2D.Arrays.-.Part.1.pdf)
+    - [2D Arrays Problem Solving - 2 | Spiral Matrix Traversal & Generation](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays/2.%20Two-Dimensional%20Arrays/Codes)
+    - [2D Arrays Problem Solving - 3 | Prefix Sum](https://github.com/user-attachments/files/16744881/Problems.on.2D.Arrays.-.Part.3.pdf)
+      
+  - ### Arraylists
+    - [Arraylist in Java](https://github.com/user-attachments/files/16744883/Array.List.in.Java.pdf)
 
 </details>
 
@@ -214,7 +219,7 @@ Explore the assignments given throughout the course. Each assignment folder incl
 <details>
   <summary>Number Systems</summary>
 
-  - **Decimal & Binary**
+  - _Decimal & Binary_
   
 </details>
 
@@ -224,7 +229,7 @@ Explore the assignments given throughout the course. Each assignment folder incl
 
   - [Classes and Objects](https://github.com/user-attachments/files/16745600/Assignment.Questions.-.Introduction.to.OOPs.pdf)
   - [Java Methods | Declaring and Calling methods](https://github.com/user-attachments/files/16745629/Assignment.Questions.-.Java.Methods.pdf)
-  - **Methods & Scope | Pass by Value & Pass by reference**
+  - _Methods & Scope | Pass by Value & Pass by reference_
 
   
 </details>
@@ -233,16 +238,21 @@ Explore the assignments given throughout the course. Each assignment folder incl
 <details>
   <summary>Arrays</summary>
 
-  - [Types, Declaration, Creation, Operations](https://github.com/user-attachments/files/16745756/Assignment.Questions.-.Java.Arrays.pdf)
-  - [Taking Input, Array Reference, Cloning and Copy](https://github.com/user-attachments/files/16745757/Assignment.Questions.-.Arrays.2.pdf)
-  - [Problem Solving - 1 | Target Sum](https://github.com/user-attachments/files/16745758/Assignment.Questions.-.Arrays.3.pdf)
-  - [Problem Solving - 2 | Reverse, Rotate, Search Query](https://github.com/user-attachments/files/16745760/Assignment.Questions.-.Arrays.4.pdf)
-  - [Problem Solving - 3 | Two Pointers](https://github.com/user-attachments/files/16745763/Assignment.Questions.-.Arrays.5.pdf)
-  - **Problem Solving - 4 | Prefix Sum, Range Sum Query**
+  - ### Single-Dimensional Arrays
+    - [Types, Declaration, Creation, Operations](https://github.com/user-attachments/files/16745756/Assignment.Questions.-.Java.Arrays.pdf)
+    - [Taking Input, Array Reference, Cloning and Copy](https://github.com/user-attachments/files/16745757/Assignment.Questions.-.Arrays.2.pdf)
+    - [Problem Solving - 1 | Target Sum](https://github.com/user-attachments/files/16745758/Assignment.Questions.-.Arrays.3.pdf)
+    - [Problem Solving - 2 | Reverse, Rotate, Search Query](https://github.com/user-attachments/files/16745760/Assignment.Questions.-.Arrays.4.pdf)
+    - [Problem Solving - 3 | Two Pointers](https://github.com/user-attachments/files/16745763/Assignment.Questions.-.Arrays.5.pdf)
+    - _Problem Solving - 4 | Prefix Sum, Range Sum Query_
+
+- ### Two-Dimensional Arrays
   - [2D Arrays | Uses, Taking input](https://github.com/user-attachments/files/16745848/Assignment.Questions-.2D.Arrays.pdf)
   - [2D Arrays Problem Solving - 1 | Matrix Transpose & Rotation, Pascal's Triangle](https://github.com/user-attachments/files/16745850/Assignment.Questions.-.2D.Arrays.2.pdf)
-  - **2D Arrays Problem Solving - 1 | Spiral Matrix Traversal & Generation**
+  - _2D Arrays Problem Solving - 1 | Spiral Matrix Traversal & Generation_
   - [2D Arrays Problem Solving - 1 | Prefix Sum](https://github.com/user-attachments/files/16745906/Assignment.Questions.-.2D.Arrays.3.pdf)
+
+- ### Arraylists
   - [Arraylist in Java](https://github.com/user-attachments/files/16745954/Assignment.Questions.-.Arraylist.pdf)
 
 </details>
