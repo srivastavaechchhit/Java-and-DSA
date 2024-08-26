@@ -9,7 +9,8 @@ Welcome to my **Java Learning Repository!** This repository documents my journey
 1. [📝 Short Notes](#-Short-Notes)
 2. [📚 Complete Notes](#-Complete-Notes)
 3. [💻 Assignments](#-Assignments)
-4. [🤝 Contributing](#-contributing)
+4. [💡 Assignment Solutions](#-Assignment-Solutions)
+5. [🤝 Contributing](#-contributing)
 
 ---
 
@@ -80,6 +81,16 @@ Explore the assignments given throughout the course. Each assignment folder incl
   - [Arraylists](https://github.com/user-attachments/files/16744075/Assignment.Questions.-.Arraylist.pdf)
 - **...stay tuned!**
 
+---
+
+## 💡 **Assignment Solutions**
+
+In this section, you will find the detailed solutions for each assignment to help you understand how to approach and solve Java programming problems.
+
+📂 **Assignment Solutions:**
+
+- **...coming soon!**
+  
 ---
 
 ## 🤝 **Contributing**
