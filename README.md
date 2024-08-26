@@ -72,7 +72,6 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
   <summary>Operators in Java</summary>
 
   - [Operators in Java](https://github.com/user-attachments/files/16744665/Operators.pdf)
-  - [Bitwise Operators](https://github.com/user-attachments/files/16744669/Operators.pdf)
 
 </details>
 
