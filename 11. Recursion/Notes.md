@@ -9,7 +9,7 @@ In PMI, we have been gievn a formula and asked -
 - to validate the formula for n = 1
 - to assume that it is true for any n = k
 - to prove that it will be true for all n = k+1
-  ![IMG_20240827_172432](https://github.com/user-attachments/assets/f24eec3d-8ef0-4a31-9646-693004973634)
+- ![IMG_20240827_172432](https://github.com/user-attachments/assets/f24eec3d-8ef0-4a31-9646-693004973634)
 
 ---
 
@@ -22,7 +22,7 @@ In PMI, we have been gievn a formula and asked -
   - a linear data structure
   - it follows _LIFO_ principle
   - LIFO: Last In, First Out
-    ![lifo-approach-in-data-structure1](https://github.com/user-attachments/assets/3422c3d4-b7c2-454c-8fde-d09155b03502)
+  - ![lifo-approach-in-data-structure1](https://github.com/user-attachments/assets/3422c3d4-b7c2-454c-8fde-d09155b03502)
 - When a program executes the method calls are stored in stack memory
 - A new stack frame is created for every method call
 - An existing stack frame is removed **only** after its execution ends or encountered by a _return_ statement
@@ -34,7 +34,7 @@ In PMI, we have been gievn a formula and asked -
 ### Halting condition or Base case
 - smallest value whose result is obvious or known
 - prevents **infinite recursion**
-  ![images](https://github.com/user-attachments/assets/96481961-fe2f-4f45-ae9d-dac4e14e797e)
+- ![images](https://github.com/user-attachments/assets/96481961-fe2f-4f45-ae9d-dac4e14e797e)
 
 
 ### Recursive work
@@ -45,5 +45,3 @@ In PMI, we have been gievn a formula and asked -
 ### Self-work
 - Do the remaining work by yourself
 - completes the method
-
----
