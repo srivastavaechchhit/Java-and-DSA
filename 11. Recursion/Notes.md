@@ -45,3 +45,5 @@ In PMI, we have been gievn a formula and asked -
 ### Self-work
 - Do the remaining work by yourself
 - completes the method
+
+![Screenshot](https://github.com/user-attachments/assets/810e2e94-78fa-447e-aadf-175dc26dcb17)
