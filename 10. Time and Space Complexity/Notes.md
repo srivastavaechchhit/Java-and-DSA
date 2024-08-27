@@ -25,7 +25,7 @@ int sum(int n) {
 - In Approach 1, the program executes 1 time for n = 1, 2 times for n = 2 and 10<sup>8</sup> times for n = 10<sup>8</sup>, whereas Approach 2 calculates the result directly as it has only 3-4 operations for any value of n.
   Hence, Approach 2 is a **time-optimised code**.
 - Suppose, there are two algorithms A1 & A2 for a same problem P having overall running time of 1 sec & 2 sec respectively. If we have been ask which algorithm has better time complexity, we may answer A1 as it has less execution time.
-- But the overall running time of a program is not the only criteria to determine which algorithm is better in terms of time complexity. The overall runninf time of a program depends on various factors:
+- But the overall running time of a program is not the only criteria to determine which algorithm is better in terms of time complexity. The overall running time of a program depends on various factors:
   - Logic/Algorithm
   - Language (C/C++/Java/Python/JavaScript)
   - Processor of the machine
