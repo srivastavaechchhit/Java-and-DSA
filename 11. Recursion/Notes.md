@@ -47,3 +47,18 @@ In PMI, we have been gievn a formula and asked -
 - completes the method
 
 ![Screenshot](https://github.com/user-attachments/assets/810e2e94-78fa-447e-aadf-175dc26dcb17)
+
+---
+
+## Working of Recursive function
+
+### Syntax
+
+```ruby
+methodName (N parameters) {
+  if (halt condition) {
+  return result;
+  }
+  return methodName (N parameters);
+}
+```
