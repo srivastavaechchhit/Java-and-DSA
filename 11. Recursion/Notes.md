@@ -62,3 +62,12 @@ methodName (N parameters) {
   return methodName (N parameters);
 }
 ```
+
+---
+
+## Recursive Tree
+- A recursion tree is a graphical representation that illustrates the execution flow of a recursive function
+  - **For example,** Write a program to to find the n<sup>th</sup> fibonacci number.
+  - ![Fib](https://github.com/user-attachments/assets/a317c044-109a-425c-9f8b-8582bd123303)
+  - **For example,** Write a program to find the n<sup>th</sup> factorial.
+  - ![15fig02](https://github.com/user-attachments/assets/b9e6e0f9-a334-4880-a262-ac03599e4fb6)
