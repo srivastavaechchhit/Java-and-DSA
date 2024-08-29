@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sum {
+public class DigitSum {
 
     static int findSum(int num) {
 
