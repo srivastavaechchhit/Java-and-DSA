@@ -71,3 +71,12 @@ methodName (N parameters) {
   - ![Fib](https://github.com/user-attachments/assets/a317c044-109a-425c-9f8b-8582bd123303)
   - **For example,** Write a program to find the n<sup>th</sup> factorial.
   - ![15fig02](https://github.com/user-attachments/assets/b9e6e0f9-a334-4880-a262-ac03599e4fb6)
+
+---
+
+## ASCII Values
+- **American Standard Code for Information Exchange**
+- standard data encoding format for communication between computers
+- assigns standard values to letters, numerals, characters, etc.
+- a-z: 97 to 122
+- A-Z: 65 to 90
