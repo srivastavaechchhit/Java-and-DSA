@@ -1,4 +1,4 @@
-# 🌟 Java & Data Structures and Algorithms 🚀
+[Recursion 7.pdf](https://github.com/user-attachments/files/16906393/Recursion.7.pdf)# 🌟 Java & Data Structures and Algorithms 🚀
 
 Welcome to my **Java Learning Repository!** This repository documents my journey as I learn Java programming through a structured series of lectures, assignments, and additional resources. Below is an overview of what you'll find here:
 
@@ -34,6 +34,7 @@ This section contains my detailed notes from each lecture of the Java learning s
   - [Single-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/9.%20Arrays/1.%20Single-dimensional%20Arrays/Notes.md)
   - [Two-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/9.%20Arrays/2.%20Two-Dimensional%20Arrays/Notes.md)
   - [Arraylists](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/9.%20Arrays/3.%20Arraylists/Notes.md)
+- [Recursion](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/11.%20Recursion/Notes.md)
 - **...stay tuned!**
 
 ---
@@ -134,6 +135,22 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 
 </details>
 
+<details>
+  <summary>Recursion</summary>
+
+  - [Recursion concept and problems](https://github.com/user-attachments/files/16906382/Recursion.pdf)
+  - [Problem Solving - 1 | Factorial & n<sup>th</sup> fibonacci number](https://github.com/user-attachments/files/16906385/Recursion.2.pdf)
+  - [Problem Solving - 2 | Sum of digits & Power of a number](https://github.com/user-attachments/files/16906386/Recursion.3.pdf)
+  - [Problem Solving - 3 | k multiples | Alternate Sum Series](https://github.com/user-attachments/files/16906387/Recursion.4.pdf)
+  - [Problem Solving - 4 | GCD | Euclids Algorithm](https://github.com/user-attachments/files/16906391/Recursion.5.pdf)
+  - [Problem Solving - 5 | Recursion on Arrays | Max Value | Sum of Arrays](https://github.com/user-attachments/files/16906392/Recursion.6.pdf)
+  - [Problem Solving - 6 | Linear Search | Find all indices](https://github.com/user-attachments/files/16906396/Recursion.7.pdf)
+  - [Problem Solving - 7 | Recursion on Strings | Remove Occurrences](https://github.com/user-attachments/files/16906397/Recursion.8.pdf)
+  - [Problem Solving - 8 | Find Subsequences | Subsets](https://github.com/user-attachments/files/16906399/Recursion.9.pdf)
+  - [Problem Solving - 9 | Recursion on Array & Strings | Frog Problem](https://github.com/user-attachments/files/16906402/Recursion.10.pdf)
+
+</details>
+
 - **...stay tuned!**
 
 ---
@@ -157,6 +174,7 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
   - [Single-Dimensional Arrays](https://github.com/user-attachments/files/16612179/Arrays.pdf)
   - [Two-Dimensional Arrays](https://github.com/user-attachments/files/16744035/Two.Dimensional.Arrays.pdf)
   - [Arraylists](https://github.com/user-attachments/files/16744073/Arraylist.in.Java.pdf)
+- [Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)
 - **...stay tuned!**
 
 ---
@@ -252,6 +270,22 @@ Explore the assignments given throughout the course. Each assignment folder incl
 
 - ### Arraylists
   - [Arraylist in Java](https://github.com/user-attachments/files/16745954/Assignment.Questions.-.Arraylist.pdf)
+
+</details>
+
+<details>
+  <summary>Recursion</summary>
+
+  - _Recursion concept and problems_
+  - _Problem Solving - 1 | Factorial & n<sup>th</sup> fibonacci number_
+  - _Problem Solving - 2 | Sum of digits & Power of a number_
+  - [Problem Solving - 3 | k multiples | Alternate Sum Series](https://github.com/user-attachments/files/16906631/Assignment.Questions.Recursions.-.1.pdf)
+  - [Problem Solving - 4 | GCD | Euclids Algorithm](https://github.com/user-attachments/files/16906633/Assignment.Questions.Recursions.-.2.pdf)
+  - [Problem Solving - 5 | Recursion on Arrays | Max Value | Sum of Arrays](https://github.com/user-attachments/files/16906634/Assignment.Questions.Recursions.-.3.pdf)
+  - [Problem Solving - 6 | Linear Search | Find all indices](https://github.com/user-attachments/files/16906635/Assignment.Questions.Recursions.-.4.pdf)
+  - [Problem Solving - 7 | Recursion on Strings | Remove Occurrences](https://github.com/user-attachments/files/16906637/Assignment.Questions.Recursions.-.5.pdf)
+  - [Problem Solving - 8 | Find Subsequences | Subsets](https://github.com/user-attachments/files/16906638/Assignment.Questions.Recursions.-.6.pdf)
+  - [Problem Solving - 9 | Recursion on Array & Strings | Frog Problem](https://github.com/user-attachments/files/16906639/Assignment.Questions.Recursions.-.7.pdf)
 
 </details>
 
