@@ -36,3 +36,13 @@ To arrange something in any order provided according to the condition.
 - Take one element, iterate through the sorted part and find the correct position of the element.
 - Insertion sort is a stable algorithm.
 - ![insertionpass](https://github.com/user-attachments/assets/b8d99f23-09fc-453c-ba97-79e078600a56)
+
+---
+
+### Merge Sort
+- 'Divide and Conquer' algorithm.
+  - Divide the array into two equal halves
+  - Sort the two subarrays separately using Recursion
+  - Merge the two sorted subarrays to create an overall sorted array
+- It is a stable algorithm.
+- ![mergeSort](https://github.com/user-attachments/assets/b8be7322-8c1b-4298-8284-956eed8ff6ce)
