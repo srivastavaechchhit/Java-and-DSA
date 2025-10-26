@@ -13,6 +13,8 @@ To arrange something in any order provided according to the condition.
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Merge Sort
+- Quick Sort
 
 ---
 
