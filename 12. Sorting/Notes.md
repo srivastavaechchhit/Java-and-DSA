@@ -45,7 +45,6 @@ To arrange something in any order provided according to the condition.
   - Sort the two subarrays separately using Recursion
   - Merge the two sorted subarrays to create an overall sorted array
 - It is a stable algorithm.
-- ![mergeSort](https://github.com/user-attachments/assets/b8be7322-8c1b-4298-8284-956eed8ff6ce)
 
 ---
 
@@ -56,4 +55,3 @@ To arrange something in any order provided according to the condition.
     the elements which are greater than the pivot element.
   - Sort the either sides of array using Recursion.
 - It is an unstable algorithm.
-- ![QuickSort](https://github.com/user-attachments/assets/6c4f74a5-180e-4f32-9a2e-d42ca0eb9dc8)
