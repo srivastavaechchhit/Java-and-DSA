@@ -67,4 +67,6 @@ To arrange something in any order provided according to the condition.
 - Range of numbers is defined, i.e. 1 to 100
 - It is not an in-place algorithm.
 - It is a stable algorithm.
-- ![countSort](https://github.com/user-attachments/assets/6bad4075-591d-471a-a836-d8e05ec86531)
+- ![countSort](https://github.com/user-attachments/assets/7fef98d4-e3cb-44e3-b547-4f0327c43e97)
+
+---
