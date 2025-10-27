@@ -61,3 +61,10 @@ To arrange something in any order provided according to the condition.
 - ![quickSort](https://github.com/user-attachments/assets/9d5a7751-31f8-45f4-b3dd-ca285650dab3)
 
 ---
+
+### Count Sort
+- Based on non-comparison sorting.
+- Range of numbers is defined, i.e. 1 to 100
+- It is not an in-place algorithm.
+- It is a stable algorithm.
+- ![countSort](https://github.com/user-attachments/assets/6bad4075-591d-471a-a836-d8e05ec86531)
