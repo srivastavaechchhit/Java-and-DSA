@@ -78,3 +78,8 @@ To arrange something in any order provided according to the condition.
 
 ---
 
+### Bucket Sort
+- Used when a range of numbers is given, and it is uniformly distributed.
+- We put all the elements in a certain number of buckets (say b)
+- Sort each bucket individually
+- Take all the elements out and join them together
