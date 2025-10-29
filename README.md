@@ -35,6 +35,7 @@ This section contains my detailed notes from each lecture of the Java learning s
   - [Two-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/09.%20Arrays/2.%20Two-Dimensional%20Arrays/Notes.md)
   - [Arraylists](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/09.%20Arrays/3.%20Arraylists/Notes.md)
 - [Recursion](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/11.%20Recursion/Notes.md)
+- [Sorting Algorithms](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
 - **...stay tuned!**
 
 ---
@@ -98,7 +99,7 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 <details>
   <summary>Number Systems</summary>
 
-  - [Decimal & Binary](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/7.%20Number%20Systems/Notes.md)
+  - [Decimal & Binary](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/07.%20Number%20Systems/Notes.md)
   
 </details>
 
@@ -122,12 +123,12 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
     - [Problem Solving - 1 | Target Sum](https://github.com/user-attachments/files/16744869/Problems.on.arrays.-.Part.1.pdf)
     - [Problem Solving - 2 | Reverse, Rotate, Search Query](https://github.com/user-attachments/files/16744870/Problems.on.arrays.-.Part.2.pdf)
     - [Problem Solving - 3 | Two Pointers](https://github.com/user-attachments/files/16744871/Problems.on.Arrays.-.Part.3.pdf)
-    - [Problem Solving - 4 | Prefix Sum, Range Sum Query](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays/1.%20Single-dimensional%20Arrays/Codes)
+    - [Problem Solving - 4 | Prefix Sum, Range Sum Query](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/09.%20Arrays/1.%20Single-dimensional%20Arrays/Codes)
       
   - ### Two-Dimensional Arrays
     - [2D Arrays | Uses, Taking input](https://github.com/user-attachments/files/16744876/2D.Arrays.pdf)
     - [2D Arrays Problem Solving - 1 | Matrix Transpose & Rotation, Pascal's Triangle](https://github.com/user-attachments/files/16744877/Problems.on.2D.Arrays.-.Part.1.pdf)
-    - [2D Arrays Problem Solving - 2 | Spiral Matrix Traversal & Generation](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays/2.%20Two-Dimensional%20Arrays/Codes)
+    - [2D Arrays Problem Solving - 2 | Spiral Matrix Traversal & Generation](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/09.%20Arrays/2.%20Two-Dimensional%20Arrays/Codes)
     - [2D Arrays Problem Solving - 3 | Prefix Sum](https://github.com/user-attachments/files/16744881/Problems.on.2D.Arrays.-.Part.3.pdf)
       
   - ### Arraylists
@@ -151,6 +152,20 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 
 </details>
 
+<details>
+  <summary>Sorting Algorithms</summary>
+
+  - [Bubble Sort Algorithm](https://github.com/user-attachments/files/23205578/Bubble.Sort.pdf)
+  - [Selection Sort Algorithm](https://github.com/user-attachments/files/23205678/Selection.Sort.pdf)
+  - [Insertion Sort Algorithm](https://github.com/user-attachments/files/23205680/Insertion.Sort.pdf)
+  - [Problem on Sorting Algorithms - 1](https://github.com/user-attachments/files/23206126/Problem.on.Sorting.Algorithms.-.1.pdf)
+  - [Merge Sort Algorithm](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
+  - [Quick Sort Algorithm](https://github.com/user-attachments/files/23205700/Quick.Sort.pdf)
+  - [Count Sort | Radix Sort | Bucket Sort](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
+  - [Problem on Sorting Algorithms - 2](https://github.com/user-attachments/files/23206133/Problem.on.Sorting.Algorithms.-.2.pdf)
+
+</details>
+
 - **...stay tuned!**
 
 ---
@@ -166,8 +181,8 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [Operators in Java](https://github.com/user-attachments/files/16512908/Java.Operators.pdf)
 - [Conditionals in Java](https://github.com/user-attachments/files/16569321/Conditionals.pdf)
 - [Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)
-- [Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/7.%20Number%20Systems/Notes.md)
-- [Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/8.%20Introduction%20to%20OOPs)
+- [Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/07.%20Number%20Systems/Notes.md)
+- [Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/08.%20Introduction%20to%20OOPs)
   - [OOPs basics](https://github.com/user-attachments/files/16579568/Introduction.to.OOPs.pdf)
   - [Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)
 - [Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
@@ -175,6 +190,8 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
   - [Two-Dimensional Arrays](https://github.com/user-attachments/files/16744035/Two.Dimensional.Arrays.pdf)
   - [Arraylists](https://github.com/user-attachments/files/16744073/Arraylist.in.Java.pdf)
 - [Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)
+- [Sorting Algorithms](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
+
 - **...stay tuned!**
 
 ---
@@ -265,8 +282,8 @@ Explore the assignments given throughout the course. Each assignment folder incl
 - ### Two-Dimensional Arrays
   - [2D Arrays | Uses, Taking input](https://github.com/user-attachments/files/16745848/Assignment.Questions-.2D.Arrays.pdf)
   - [2D Arrays Problem Solving - 1 | Matrix Transpose & Rotation, Pascal's Triangle](https://github.com/user-attachments/files/16745850/Assignment.Questions.-.2D.Arrays.2.pdf)
-  - _2D Arrays Problem Solving - 1 | Spiral Matrix Traversal & Generation_
-  - [2D Arrays Problem Solving - 1 | Prefix Sum](https://github.com/user-attachments/files/16745906/Assignment.Questions.-.2D.Arrays.3.pdf)
+  - _2D Arrays Problem Solving - 2 | Spiral Matrix Traversal & Generation_
+  - [2D Arrays Problem Solving - 3 | Prefix Sum](https://github.com/user-attachments/files/16745906/Assignment.Questions.-.2D.Arrays.3.pdf)
 
 - ### Arraylists
   - [Arraylist in Java](https://github.com/user-attachments/files/16745954/Assignment.Questions.-.Arraylist.pdf)
@@ -286,6 +303,20 @@ Explore the assignments given throughout the course. Each assignment folder incl
   - [Problem Solving - 7 | Recursion on Strings | Remove Occurrences](https://github.com/user-attachments/files/16906637/Assignment.Questions.Recursions.-.5.pdf)
   - [Problem Solving - 8 | Find Subsequences | Subsets](https://github.com/user-attachments/files/16906638/Assignment.Questions.Recursions.-.6.pdf)
   - [Problem Solving - 9 | Recursion on Array & Strings | Frog Problem](https://github.com/user-attachments/files/16906639/Assignment.Questions.Recursions.-.7.pdf)
+
+</details>
+
+<details>
+  <summary>Sorting Algorithms</summary>
+
+  - [Bubble Sort Algorithm](https://github.com/user-attachments/files/23206029/Assignment.Questions.-.Bubble.Sort.pdf)
+  - [Selection Sort Algorithm](https://github.com/user-attachments/files/23206031/Assignment.Questions.-.Selection.Sort.pdf)
+  - [[Insertion Sort Algorithm](https://github.com/user-attachments/files/23206035/Assignment.Questions.-.Insertion.Sort.pdf)
+  - [Problem on Sorting Algorithms - 1](https://github.com/user-attachments/files/23206038/Assignment.Questions.-.Problems.based.on.Sorting.Algorithms.Part.1.pdf)
+  - [Merge Sort Algorithm](https://github.com/user-attachments/files/23206044/Assignment.Questions.-.Merge.Sort.pdf)
+  - _Quick Sort Algorithm_
+  - _Count Sort | Radix Sort | Bucket Sort_
+  - [Problem on Sorting Algorithms - 2](https://github.com/user-attachments/files/23206062/Assignment.Questions.-.Problems.based.on.Sorting.Algorithms.Part.2.pdf)
 
 </details>
 
