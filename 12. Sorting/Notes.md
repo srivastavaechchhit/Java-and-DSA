@@ -83,3 +83,4 @@ To arrange something in any order provided according to the condition.
 - We put all the elements in a certain number of buckets (say b)
 - Sort each bucket individually
 - Take all the elements out and join them together
+- ![bucketSort](https://github.com/user-attachments/assets/759d826f-0842-461b-a804-779ba66f1f07)
