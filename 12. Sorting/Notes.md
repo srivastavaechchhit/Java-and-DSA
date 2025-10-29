@@ -69,6 +69,18 @@ To arrange something in any order provided according to the condition.
 
 ---
 
+## Comparison between Sorting Algorithms
+
+|     Algorithm      |  Worst Case   | Average Case  |   Best Case   | Space Complexity | Stability |
+|:------------------:|:-------------:|:-------------:|:-------------:|:----------------:|:---------:|
+|  **Bubble Sort**   | n<sup>2</sup> | n<sup>2</sup> |       n       |       O(1)       |  Stable   |
+| **Selection Sort** | n<sup>2</sup> | n<sup>2</sup> | n<sup>2</sup> |       O(1)       |  Stable   |
+| **Insertion Sort** | n<sup>2</sup> | n<sup>2</sup> |       n       |       O(1)       |  Stable   |
+|   **Merge Sort**   |     nlogn     |     nlogn     |     nlogn     |       o(n)       |  Stable   |
+|   **Quick Sort**   | n<sup>2</sup> |     nlogn     |     nlogn     |     o(logn)      | Unstable  |
+
+---
+
 ### Count Sort
 - Based on non-comparison sorting.
 - Range of numbers is defined, i.e. 1 to 100
