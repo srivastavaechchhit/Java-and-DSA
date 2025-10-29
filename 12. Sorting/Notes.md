@@ -74,3 +74,7 @@ To arrange something in any order provided according to the condition.
 ### Radix Sort
 - Based on non-comparison sorting.
 - Here we sort the elements digit by digit or based on the place value of digits in number.
+- ![radixSort](https://github.com/user-attachments/assets/9a4862a9-c98d-4b4f-ad06-427d46e77d12)
+
+---
+
