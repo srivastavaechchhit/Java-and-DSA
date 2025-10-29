@@ -20,8 +20,8 @@ Welcome to my **Java Learning Repository!** This repository documents my journey
 This section contains my detailed notes from each lecture of the Java learning series. Each lecture is organized into its own folder with notes in Markdown format.
 
 📂 **Topics Covered:**
-- [Introduction to Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/1.%20Introduction%20to%20Java/Notes.md)
-- [Variables and Data Types](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/2.%20Variables%20and%20Data%20Types/Notes.md)
+- [Introduction to Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/01.%20Introduction%20to%20Java/Notes.md)
+- [Variables and Data Types](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/02.%20Variables%20and%20Data%20Types/Notes.md)
 - [Taking Input in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/3.%20Taking%20Input%20in%20Java/Notes.md)
 - [Operators in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/4.%20Operators%20in%20Java/Notes.md)
 - [Conditionals in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/5.%20Conditionals%20in%20Java/Notes.md)
