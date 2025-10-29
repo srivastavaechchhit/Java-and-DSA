@@ -10,11 +10,18 @@ To arrange something in any order provided according to the condition.
 ---
 
 ## Types of Sorting algorithms
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+
+- **Comparative approach**
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+    
+- **Non-comparative approach**
+  - Count Sort
+  - Radix Sort
+  - Bucket Sort
 
 ---
 
