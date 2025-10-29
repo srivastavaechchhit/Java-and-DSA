@@ -70,3 +70,7 @@ To arrange something in any order provided according to the condition.
 - ![countSort](https://github.com/user-attachments/assets/7fef98d4-e3cb-44e3-b547-4f0327c43e97)
 
 ---
+
+### Radix Sort
+- Based on non-comparison sorting.
+- Here we sort the elements digit by digit or based on the place value of digits in number.
