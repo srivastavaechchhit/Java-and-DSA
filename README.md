@@ -204,7 +204,7 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
   - [Arraylists](https://github.com/user-attachments/files/16744073/Arraylist.in.Java.pdf)
 - [Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)
 - [Sorting](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
-- [Searching](https://github.com/user-attachments/files/23301378/Binary.Search.pdf)
+- [Searching](https://github.com/user-attachments/files/23314902/Binary.Search.pdf)
   
 - **...stay tuned!**
 
