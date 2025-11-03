@@ -61,7 +61,7 @@ To find the existence of a given element in the given array.
 A **rotated sorted array** is created when a sorted array is shifted cyclically by some number of positions.
 
 ### Properties of Rotated Sorted Array
-- For any three indices, namely x, y and mid, where,$$\text{mid} = x + \frac{y-x}{2}$$
+- For any three indices, namely x, y and mid, where, $$\text{mid} = x + \frac{y-x}{2}$$
   the two parts of the array (i.e. x to mid and mid to y) can never be unsorted together (i.e. either both or one of them be always sorted)
 - If we pick two indices, namely x and y, such that arr[x] < arr[y], then x to y be always sorted <br>
   (i.e. the pivot does not lie between x and y). 
