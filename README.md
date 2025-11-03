@@ -35,7 +35,7 @@ This section contains my detailed notes from each lecture of the Java learning s
   - [Two-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/09.%20Arrays/2.%20Two-Dimensional%20Arrays/Notes.md)
   - [Arraylists](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/09.%20Arrays/3.%20Arraylists/Notes.md)
 - [Recursion](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/11.%20Recursion/Notes.md)
-- [Sorting Algorithms](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
+- [Sorting](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
 - **...stay tuned!**
 
 ---
@@ -153,14 +153,14 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 </details>
 
 <details>
-  <summary>Sorting Algorithms</summary>
+  <summary>Sorting</summary>
 
-  - [Bubble Sort Algorithm](https://github.com/user-attachments/files/23205578/Bubble.Sort.pdf)
-  - [Selection Sort Algorithm](https://github.com/user-attachments/files/23205678/Selection.Sort.pdf)
-  - [Insertion Sort Algorithm](https://github.com/user-attachments/files/23205680/Insertion.Sort.pdf)
+  - [Bubble Sort](https://github.com/user-attachments/files/23205578/Bubble.Sort.pdf)
+  - [Selection Sort](https://github.com/user-attachments/files/23205678/Selection.Sort.pdf)
+  - [Insertion Sort](https://github.com/user-attachments/files/23205680/Insertion.Sort.pdf)
   - [Problem on Sorting Algorithms - 1](https://github.com/user-attachments/files/23206126/Problem.on.Sorting.Algorithms.-.1.pdf)
-  - [Merge Sort Algorithm](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
-  - [Quick Sort Algorithm](https://github.com/user-attachments/files/23205700/Quick.Sort.pdf)
+  - [Merge Sort](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
+  - [Quick Sort](https://github.com/user-attachments/files/23205700/Quick.Sort.pdf)
   - [Count Sort | Radix Sort | Bucket Sort](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
   - [Problem on Sorting Algorithms - 2](https://github.com/user-attachments/files/23206133/Problem.on.Sorting.Algorithms.-.2.pdf)
 
@@ -190,7 +190,7 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
   - [Two-Dimensional Arrays](https://github.com/user-attachments/files/16744035/Two.Dimensional.Arrays.pdf)
   - [Arraylists](https://github.com/user-attachments/files/16744073/Arraylist.in.Java.pdf)
 - [Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)
-- [Sorting Algorithms](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
+- [Sorting](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
 
 - **...stay tuned!**
 
@@ -307,14 +307,14 @@ Explore the assignments given throughout the course. Each assignment folder incl
 </details>
 
 <details>
-  <summary>Sorting Algorithms</summary>
+  <summary>Sorting</summary>
 
-  - [Bubble Sort Algorithm](https://github.com/user-attachments/files/23206029/Assignment.Questions.-.Bubble.Sort.pdf)
-  - [Selection Sort Algorithm](https://github.com/user-attachments/files/23206031/Assignment.Questions.-.Selection.Sort.pdf)
-  - [[Insertion Sort Algorithm](https://github.com/user-attachments/files/23206035/Assignment.Questions.-.Insertion.Sort.pdf)
+  - [Bubble Sort](https://github.com/user-attachments/files/23206029/Assignment.Questions.-.Bubble.Sort.pdf)
+  - [Selection Sort](https://github.com/user-attachments/files/23206031/Assignment.Questions.-.Selection.Sort.pdf)
+  - [[Insertion Sort](https://github.com/user-attachments/files/23206035/Assignment.Questions.-.Insertion.Sort.pdf)
   - [Problem on Sorting Algorithms - 1](https://github.com/user-attachments/files/23206038/Assignment.Questions.-.Problems.based.on.Sorting.Algorithms.Part.1.pdf)
-  - [Merge Sort Algorithm](https://github.com/user-attachments/files/23206044/Assignment.Questions.-.Merge.Sort.pdf)
-  - _Quick Sort Algorithm_
+  - [Merge Sort](https://github.com/user-attachments/files/23206044/Assignment.Questions.-.Merge.Sort.pdf)
+  - _Quick Sort_
   - _Count Sort | Radix Sort | Bucket Sort_
   - [Problem on Sorting Algorithms - 2](https://github.com/user-attachments/files/23206062/Assignment.Questions.-.Problems.based.on.Sorting.Algorithms.Part.2.pdf)
 
