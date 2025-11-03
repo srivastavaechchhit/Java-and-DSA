@@ -24,6 +24,7 @@ To find the existence of a given element in the given array.
     - **Time Complexity:**
         - Best Case: **O(1)**, when the target is the first element.
         - Worst/Average Case: **O(n)**, when the target is the last element or not present.
+- ![linearSearch](https://github.com/user-attachments/assets/6bfb1ead-658b-491d-a43b-f728033762ed)
 
 ---
 
@@ -41,6 +42,8 @@ To find the existence of a given element in the given array.
     - **Time Complexity:**
         - Best Case: **O(1)**, when the target is the middle element.
         - Worst/Average Case: **O(log n)**, as the search space is halved in every step.
+- ![binarySearch](https://github.com/user-attachments/assets/0ee001da-5c17-428c-b2d4-786005efea1b)
+
 
 ---
 
@@ -48,7 +51,7 @@ To find the existence of a given element in the given array.
 |       Feature       |                    Linear Search                     |                         Binary Search                         |
 |:-------------------:|:----------------------------------------------------:|:-------------------------------------------------------------:|
 |  **Prerequisite**   |                         None                         |                         Sorted Array                          |
-| **Time Complexity** | Best case: **O(1)** <br>Worst/Average case: **O(n)** | Best case: **O(1)** <br>Worst/Average <br> case: **O(log n)** |
+| **Time Complexity** | Best case: **O(1)** <br>Worst/Average case: **O(n)** | Best case: **O(1)** <br>Worst/Average case: **O(log n)** |
 |    **Mechanism**    |              Checks element one by one               |     Checks the middle element and halves the search space     |
 |   **Efficiency**    |                        Lower                         |                            Higher                             |
 
