@@ -36,6 +36,8 @@ This section contains my detailed notes from each lecture of the Java learning s
   - [Arraylists](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/09.%20Arrays/3.%20Arraylists/Notes.md)
 - [Recursion](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/11.%20Recursion/Notes.md)
 - [Sorting](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
+- [Searching](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/13.%20Searching/Notes.md)
+  
 - **...stay tuned!**
 
 ---
@@ -166,6 +168,15 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 
 </details>
 
+<details>
+  <summary>Searching</summary>
+
+  - [Linear Search](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/13.%20Searching/Notes.md)
+  - [Binary Search](https://github.com/user-attachments/files/23301530/Binary.Search.pdf)
+  - [Binary Search Problems - 1](https://github.com/user-attachments/files/23301540/Binary.Search.Problems.-.1.pdf)
+
+</details>
+
 - **...stay tuned!**
 
 ---
@@ -191,7 +202,8 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
   - [Arraylists](https://github.com/user-attachments/files/16744073/Arraylist.in.Java.pdf)
 - [Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)
 - [Sorting](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
-
+- [Searching](https://github.com/user-attachments/files/23301378/Binary.Search.pdf)
+  
 - **...stay tuned!**
 
 ---
@@ -311,12 +323,21 @@ Explore the assignments given throughout the course. Each assignment folder incl
 
   - [Bubble Sort](https://github.com/user-attachments/files/23206029/Assignment.Questions.-.Bubble.Sort.pdf)
   - [Selection Sort](https://github.com/user-attachments/files/23206031/Assignment.Questions.-.Selection.Sort.pdf)
-  - [[Insertion Sort](https://github.com/user-attachments/files/23206035/Assignment.Questions.-.Insertion.Sort.pdf)
+  - [Insertion Sort](https://github.com/user-attachments/files/23206035/Assignment.Questions.-.Insertion.Sort.pdf)
   - [Problem on Sorting Algorithms - 1](https://github.com/user-attachments/files/23206038/Assignment.Questions.-.Problems.based.on.Sorting.Algorithms.Part.1.pdf)
   - [Merge Sort](https://github.com/user-attachments/files/23206044/Assignment.Questions.-.Merge.Sort.pdf)
   - _Quick Sort_
   - _Count Sort | Radix Sort | Bucket Sort_
   - [Problem on Sorting Algorithms - 2](https://github.com/user-attachments/files/23206062/Assignment.Questions.-.Problems.based.on.Sorting.Algorithms.Part.2.pdf)
+
+</details>
+
+<details>
+  <summary>Searching</summary>
+  
+  - [Linear Search](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/13.%20Searching/Codes/1.%20Linear%20Search/Problems%20based%20on%20Linear%20Search)
+  - [Binary Search](https://github.com/user-attachments/files/23301685/Assignment.Questions.-.Binary.Search.pdf)
+  - [Binary Search Problems - 1](https://github.com/user-attachments/files/23301739/Assignment.Questions.-.Binary.Search.Problems.pdf)
 
 </details>
 
