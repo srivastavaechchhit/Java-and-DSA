@@ -174,6 +174,8 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
   - [Linear Search](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/13.%20Searching/Notes.md)
   - [Binary Search](https://github.com/user-attachments/files/23301530/Binary.Search.pdf)
   - [Binary Search Problems - 1](https://github.com/user-attachments/files/23301540/Binary.Search.Problems.-.1.pdf)
+  - [Binary Search Problems - 2](https://github.com/user-attachments/files/23314798/Binary.Search.Problems.-.2.pdf)
+
 
 </details>
 
@@ -338,6 +340,7 @@ Explore the assignments given throughout the course. Each assignment folder incl
   - [Linear Search](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/13.%20Searching/Codes/1.%20Linear%20Search/Problems%20based%20on%20Linear%20Search)
   - [Binary Search](https://github.com/user-attachments/files/23301685/Assignment.Questions.-.Binary.Search.pdf)
   - [Binary Search Problems - 1](https://github.com/user-attachments/files/23301739/Assignment.Questions.-.Binary.Search.Problems.pdf)
+  - [Binary Search Problems - 2](https://github.com/user-attachments/files/23314826/Assignment.Questions.-.Binary.Search.Problems.pdf)
 
 </details>
 
