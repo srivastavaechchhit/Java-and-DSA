@@ -31,41 +31,62 @@ String str = "abc";
 
 ### charAt()
 - returns the character at given index.
+- ![charAt](https://github.com/user-attachments/assets/6a4f27d5-c9e5-4c42-87b1-29bff80eee81)
 
 ### length()
 - returns the length of given String.
+- ![length](https://github.com/user-attachments/assets/b89b7eb3-462e-4cd3-ae8b-ca0abeac504d)
 
 ### indexOf()
 - returns the **first** index of given character.
+- ![indexOf](https://github.com/user-attachments/assets/caae4b2f-35e7-4159-a1e7-1f776934fe6a)
 
 ### compareTo()
 - compare the two given Strings lexicographically.
+- ![](https://github.com/user-attachments/assets/708be939-81cd-4523-8751-34bde395e7b9)
+- ![](https://github.com/user-attachments/assets/29374cf5-07a8-4b7f-a906-dfe556628caa)
+- ![](https://github.com/user-attachments/assets/3f193ffa-4f00-4b65-81bb-8983a4ea381a)
 
 ### contains()
 - checks if the String contains the given character or set of characters.
+- ![](https://github.com/user-attachments/assets/2fcc54e5-7396-48d7-8cb8-9d4c121f239e)
+- ![](https://github.com/user-attachments/assets/a1c9e6e5-f07c-46cc-ab80-7a3c9219ba14)
 
 ### startsWith()
 - checks if the String starts with given character or set of characters.
+- ![](https://github.com/user-attachments/assets/5364a3e9-ff31-47d4-a4d1-23b0c59826ba)
+- ![](https://github.com/user-attachments/assets/b80dd386-e682-4674-a69e-5696482c57d0)
 
 ### endsWith()
 - checks if the String ends with given character or set of characters.
+- ![](https://github.com/user-attachments/assets/b32e21c8-d973-42a8-9517-a8b3d95f7100)
+- ![](https://github.com/user-attachments/assets/2c9fd0b9-b5cb-4b45-af86-4c545e33819a)
 
 ### toLowercase()
 - returns the given String with **all** its characters in lowercase.
+- ![](https://github.com/user-attachments/assets/affcfcc2-9a61-4822-aa4f-dd6e189cef9a)
 
 ### toUppercase()
 - returns the given String with **all** its characters in uppercase.
+- ![](https://github.com/user-attachments/assets/8f5e1409-0150-4342-b0be-57e44e40c85b)
 
 ### concat()
 - joins or concatenate two given Strings.
+- ![](https://github.com/user-attachments/assets/101ab6dc-0401-4fda-8e67-f0c3e2b7a86f)
 
 ### substring(i, j)
 - returns the characters from i<sup>th</sup> index to (j-1)<sup>th</sup> index.
+- ![](https://github.com/user-attachments/assets/e6adacbb-9d22-4cd9-a7b9-b0c1992e3850)
 
 ### substring(i)
 - returns the characters from i<sup>th</sup> index to (n-1)<sup>th</sup> index.
+- ![](https://github.com/user-attachments/assets/fd0bfd33-0284-4611-b1bb-1427af159ab9)
 
 ### String + int / char / String
+- ![](https://github.com/user-attachments/assets/b9e256dd-a791-473d-a170-14113072a241)
+- ![](https://github.com/user-attachments/assets/a4d4cc11-94c8-436c-849a-b6a4317b83d5)
+- ![](https://github.com/user-attachments/assets/38a2d04e-fbff-4799-8e76-6a4b8152a194)
+- ![](https://github.com/user-attachments/assets/9ba7562b-e8cf-49fe-82d1-690c7457f5c4)
 
 ---
 
@@ -87,7 +108,7 @@ String str = "abc";
 
 - The immutability of String means that once a String object is created, its content **cannot** be changed.
 - Any operation that appears to modify a String actually results in the creation of a **new** String object.
-```
+```ruby
 String s = "Hello;
 s = s + "World";
 ```
@@ -95,3 +116,5 @@ s = s + "World";
 - The expression s + "World" creates a **new** String object containing "Hello World".
 - The reference variable s is updated to point to this new object.
 - The original "Hello" object remains unchanged and is available for garbage collection (unless another reference points to it).
+
+---
