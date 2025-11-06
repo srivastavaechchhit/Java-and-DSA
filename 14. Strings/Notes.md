@@ -18,12 +18,12 @@ String str = "abc";
   - **String <variable_name> = sc.next();**
     - E.g.: ```String str1 = sc.next();```
     - reads only the first word.
-    - Input: Java and DSA, Output: Java
+    - Input: Java and DSA <br> Output: Java
     
   - **String <variable_name> = sc.nextLine();**
     - E.g.: ```String str2 = sc.nextLine();```
     - reads the complete input.
-    - Input: Java and DSA, Output: Java and DSA.
+    - Input: Java and DSA <br> Output: Java and DSA.
 
 ---
 
@@ -135,6 +135,16 @@ The StringBuilder class in Java is a **mutable sequence of characters** i.e. we 
 StringBuilder sb = new StringBuilder();              // empty builder
 StringBuilder sb2 = new StringBuilder("Hello");      // initialized with a String
 ```
+
+---
+
+## Input of a StringBuilder
+
+### Syntax: StringBuilder <variable_name> = new StringBuilder(System.in);
+- E.g.:```StringBuilder str = new StringBuilder(sc.nextLine());```
+  - reads the complete input.
+  - Input: Java and DSA <br> Output: Java and DSA
+
 
 ---
 
