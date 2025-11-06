@@ -37,6 +37,7 @@ This section contains my detailed notes from each lecture of the Java learning s
 - [Recursion](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/11.%20Recursion/Notes.md)
 - [Sorting](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
 - [Searching](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/13.%20Searching/Notes.md)
+- [String](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/14.%20Strings/Notes.md)
   
 - **...stay tuned!**
 
@@ -176,7 +177,10 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
   - [Binary Search Problems - 1](https://github.com/user-attachments/files/23301540/Binary.Search.Problems.-.1.pdf)
   - [Binary Search Problems - 2](https://github.com/user-attachments/files/23314798/Binary.Search.Problems.-.2.pdf)
 
+</details>
 
+<details>
+  <summary>String</summary>
 </details>
 
 - **...stay tuned!**
@@ -205,6 +209,7 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)
 - [Sorting](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
 - [Searching](https://github.com/user-attachments/files/23314902/Binary.Search.pdf)
+- **String**
   
 - **...stay tuned!**
 
@@ -312,7 +317,7 @@ Explore the assignments given throughout the course. Each assignment folder incl
   - _Problem Solving - 2 | Sum of digits & Power of a number_
   - [Problem Solving - 3 | k multiples | Alternate Sum Series](https://github.com/user-attachments/files/16906631/Assignment.Questions.Recursions.-.1.pdf)
   - [Problem Solving - 4 | GCD | Euclids Algorithm](https://github.com/user-attachments/files/16906633/Assignment.Questions.Recursions.-.2.pdf)
-  - [Problem Solving - 5 | Recursion on Arrays | Max Value | Sum of Arrays](https://github.com/user-attachments/files/16906634/Assignment.Questions.Recursions.-.3.pdf)
+  - [Problem Solving - 5 | Recursion on Arrays | Max Value | Sum of Arrays](https://github.com/userattachments/files/16906634/Assignment.Questions.Recursions.-.3.pdf)
   - [Problem Solving - 6 | Linear Search | Find all indices](https://github.com/user-attachments/files/16906635/Assignment.Questions.Recursions.-.4.pdf)
   - [Problem Solving - 7 | Recursion on Strings | Remove Occurrences](https://github.com/user-attachments/files/16906637/Assignment.Questions.Recursions.-.5.pdf)
   - [Problem Solving - 8 | Find Subsequences | Subsets](https://github.com/user-attachments/files/16906638/Assignment.Questions.Recursions.-.6.pdf)
@@ -337,11 +342,16 @@ Explore the assignments given throughout the course. Each assignment folder incl
 <details>
   <summary>Searching</summary>
   
-  - [Linear Search](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/13.%20Searching/Codes/1.%20Linear%20Search/Problems%20based%20on%20Linear%20Search)
+  - [Linear Search](https://github.com/srivastavaechchhit/Java-andDSA/tree/main/13.%20Searching/Codes/1.%20Linear%20Search/Problems%20based%20on%20Linear%20Search)
   - [Binary Search](https://github.com/user-attachments/files/23301685/Assignment.Questions.-.Binary.Search.pdf)
   - [Binary Search Problems - 1](https://github.com/user-attachments/files/23301739/Assignment.Questions.-.Binary.Search.Problems.pdf)
   - [Binary Search Problems - 2](https://github.com/user-attachments/files/23314826/Assignment.Questions.-.Binary.Search.Problems.pdf)
 
+</details>
+
+<details>
+  <summary>String</summary>
+  
 </details>
 
 - **...stay tuned!**
