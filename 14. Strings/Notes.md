@@ -82,6 +82,10 @@ String str = "abc";
 - returns the characters from i<sup>th</sup> index to (n-1)<sup>th</sup> index.
 - ![](https://github.com/user-attachments/assets/fd0bfd33-0284-4611-b1bb-1427af159ab9)
 
+### equals() and ==
+- The comparison operator (==) is not used for Strings as it returns the output based on equal **address**.
+- ```equals()``` is used to check if two Strings are equal or not.
+
 ### String + int / char / String
 - ![](https://github.com/user-attachments/assets/b9e256dd-a791-473d-a170-14113072a241)
 - ![](https://github.com/user-attachments/assets/a4d4cc11-94c8-436c-849a-b6a4317b83d5)
@@ -118,3 +122,4 @@ s = s + "World";
 - The original "Hello" object remains unchanged and is available for garbage collection (unless another reference points to it).
 
 ---
+
