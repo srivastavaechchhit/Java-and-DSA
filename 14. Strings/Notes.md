@@ -124,3 +124,56 @@ s = s + "World";
 
 ---
 
+# String Builder in Java
+The StringBuilder class in Java is a **mutable sequence of characters** i.e. we can modify a String without creating a new object every time.
+
+---
+
+## Declaration of a StringBuilder
+### Syntax: StringBuilder <variable_name> = new StringBuilder();
+```ruby
+StringBuilder sb = new StringBuilder();              // empty builder
+StringBuilder sb2 = new StringBuilder("Hello");      // initialized with a String
+```
+
+---
+
+## In-built functions in StringBuilder
+
+### append()
+- adds a new integer, character or String in the existing String.
+- ![](https://github.com/user-attachments/assets/85b2444f-b31f-4d31-b70f-a34ff767f7cc)
+- ![](https://github.com/user-attachments/assets/19202e1f-269f-4984-92b5-bc840286c62e)
+- ![](https://github.com/user-attachments/assets/01f0ec6b-9ccb-440a-ad41-d9ef8483dd45)
+
+### setCharAt()
+- adds **one** character at a given index.
+- replaces the existing character.
+- ![](https://github.com/user-attachments/assets/1bc40274-e1e4-46f1-a60b-c055c3e91842)
+
+### insert()
+- adds **one or more** characters at a given index.
+- increases the length of String.
+- ![](https://github.com/user-attachments/assets/5481026c-ca8b-446f-87f4-ccac14fc3712)
+
+### deleteCharAt(i)
+- deletes **one** character from i<sup>th</sup> index.
+- ![](https://github.com/user-attachments/assets/c21ba9e5-c370-4376-93eb-28a10660436d)
+
+### reverse()
+- reverses the given String.
+- ![](https://github.com/user-attachments/assets/7229bed1-05ee-4cb5-903f-8800d6487129)
+
+### delete(i, j)
+- deletes a range of characters for i<sup>th</sup> index to (j-1)<sup>th</sup> index.
+- ![](https://github.com/user-attachments/assets/2135c77d-46a2-4339-a804-f9c4cc236243)
+
+### substring(i)
+- return the characters from i<sup>th</sup> index to (n-1)<sup>th</sup> index, where n is the length of String.
+- ![](https://github.com/user-attachments/assets/c81483ec-5828-46b4-b243-8501584bdb2e)
+
+### substring(i, j)
+- return the set of characters from i<sup>th</sup> index to (j-1)<sup>th</sup> index.
+- ![](https://github.com/user-attachments/assets/25bba574-d536-4aef-b8ba-ccc986d0bbf7)
+
+---
