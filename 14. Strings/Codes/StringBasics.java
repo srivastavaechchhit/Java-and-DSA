@@ -12,9 +12,9 @@ public class StringBasics {
         System.out.println(str.endsWith("low"));                // false
         System.out.println(str.toLowerCase());                  // hello
         System.out.println(str.toUpperCase());                  // HELLO
-        System.out.println(str.concat("World"));            // HelloWorld
+        System.out.println(str.concat("World"));                // HelloWorld
         System.out.println(str.substring(0, 3));                // Hel
-        System.out.println(str.substring(3));          // lo
+        System.out.println(str.substring(3));                   // lo
         System.out.println("Hello" + 10);                       // Hello10
         System.out.println("Hello" + 'C');                      // HelloC
         System.out.println("Hello" + "World");                  // HelloWorld
