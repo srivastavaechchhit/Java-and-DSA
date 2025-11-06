@@ -85,6 +85,7 @@ String str = "abc";
 ### equals() and ==
 - The comparison operator (==) is not used for Strings as it returns the output based on equal **address**.
 - ```equals()``` is used to check if two Strings are equal or not.
+- ![](https://github.com/user-attachments/assets/c5378f20-7e62-4778-9ee4-231df7646e2b)
 
 ### String + int / char / String
 - ![](https://github.com/user-attachments/assets/b9e256dd-a791-473d-a170-14113072a241)
