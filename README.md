@@ -181,6 +181,9 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 
 <details>
   <summary>String</summary>
+  
+  - [String and StringBuilder Class](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/14.%20Strings/Notes.md)
+  
 </details>
 
 - **...stay tuned!**
@@ -209,7 +212,7 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)
 - [Sorting](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
 - [Searching](https://github.com/user-attachments/files/23314902/Binary.Search.pdf)
-- **String**
+- [String](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings)
   
 - **...stay tuned!**
 
@@ -351,6 +354,8 @@ Explore the assignments given throughout the course. Each assignment folder incl
 
 <details>
   <summary>String</summary>
+  
+  [String and StringBuilder Class](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings/Codes)
   
 </details>
 
