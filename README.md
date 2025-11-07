@@ -38,6 +38,7 @@ This section contains my detailed notes from each lecture of the Java learning s
 - [Sorting](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
 - [Searching](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/13.%20Searching/Notes.md)
 - [String](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/14.%20Strings/Notes.md)
+- [Java OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/15.%20Java%20OOPs/Notes.md)
   
 - **...stay tuned!**
 
@@ -186,6 +187,13 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
   
 </details>
 
+<details>
+  <summary>Java OOPs</summary>
+  
+  - [Java OOPs](https://github.com/user-attachments/files/23416740/Java.OOPs.pdf)
+
+</details>
+
 - **...stay tuned!**
 
 ---
@@ -213,6 +221,8 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [Sorting](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
 - [Searching](https://github.com/user-attachments/files/23314902/Binary.Search.pdf)
 - [String](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings)
+- [Java OOPs](https://github.com/user-attachments/files/23416765/Java.OOPs.pdf)
+
   
 - **...stay tuned!**
 
@@ -357,6 +367,13 @@ Explore the assignments given throughout the course. Each assignment folder incl
   
   - [String and StringBuilder Class](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings/Codes)
   
+</details>
+
+<details>
+  <summary>Java OOPs</summary>
+
+  - [Java OOPs](https://github.com/user-attachments/files/23416651/Assignment.Questions.-.Java.OOPs.pdf)
+
 </details>
 
 - **...stay tuned!**
