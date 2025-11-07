@@ -355,7 +355,7 @@ Explore the assignments given throughout the course. Each assignment folder incl
 <details>
   <summary>String</summary>
   
-  [String and StringBuilder Class](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings/Codes)
+  - [String and StringBuilder Class](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings/Codes)
   
 </details>
 
