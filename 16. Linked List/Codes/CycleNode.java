@@ -6,8 +6,6 @@
     Do not modify the linked list.
  */
 
-package LinkedList.Problems;
-
 public class CycleNode {
 
     static class ListNode {

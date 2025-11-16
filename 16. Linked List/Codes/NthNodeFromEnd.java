@@ -1,5 +1,3 @@
-package LinkedList.Problems;
-
 public class NthNodeFromEnd {
 
     static ListNode nthNodeFromEnd(ListNode head, int n) {

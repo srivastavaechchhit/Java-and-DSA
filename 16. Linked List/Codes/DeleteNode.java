@@ -4,8 +4,6 @@
     Also, the node to be deleted is not the last node.
  */
 
-package LinkedList.Problems;
-
 public class DeleteNode {
 
     static class ListNode {

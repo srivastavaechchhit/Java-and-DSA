@@ -6,8 +6,6 @@
     Return true if there is a cycle in the linked list. Otherwise, return false.
  */
 
-package LinkedList.Problems;
-
 public class Cycle {
 
     static class ListNode {

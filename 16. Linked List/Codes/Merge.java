@@ -4,8 +4,6 @@
     Return the head of the merged linked list.
  */
 
-package LinkedList.Problems;
-
 public class Merge {
     static class ListNode {
         int data;

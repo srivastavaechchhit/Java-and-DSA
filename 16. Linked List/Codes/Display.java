@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class Display {
     static void printLL(Node head) {
         Node temp = head;

@@ -3,8 +3,6 @@
     If the two linked lists have no intersection at all, return null.
  */
 
-package LinkedList.Problems;
-
 public class IntersectionNode {
 
     static class linkedList {

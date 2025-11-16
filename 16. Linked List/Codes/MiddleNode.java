@@ -3,8 +3,6 @@
     If there are two middle nodes, return the second middle node.
  */
 
-package LinkedList.Problems;
-
 public class MiddleNode {
 
     static class ListNode {

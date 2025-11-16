@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class Basics {
 
     static class Node {

@@ -4,8 +4,6 @@
     Output: [1,2,3,5]
  */
 
-package LinkedList.Problems;
-
 public class DeleteNthFromEnd {
 
     static class ListNode {

@@ -4,8 +4,6 @@
     where ⌊x⌋ denotes the largest integer less than or equal to x.
  */
 
-package LinkedList.Problems;
-
 public class DeleteMiddleNode {
 
     static class ListNode {
