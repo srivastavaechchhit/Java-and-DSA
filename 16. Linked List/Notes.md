@@ -4,6 +4,7 @@ A **Linked List** is a linear data structure where elements are stored in **node
 
 - **data**
 - reference to the **next** node.
+<img width="812" height="221" alt="LLdrawio" src="https://github.com/user-attachments/assets/1dda7a56-134a-455d-8f7c-217c2f16f230" />
 
 ---
 
@@ -36,10 +37,10 @@ A **Linked List** is a linear data structure where elements are stored in **node
 - At any index
     
 ### Traversal
-– moving node by node
+- moving node by node
 
 ### Search
-– find an element
+- find an element
 
 ---
 
@@ -58,13 +59,24 @@ A **Linked List** is a linear data structure where elements are stored in **node
 
 ## Node Structure
 
-```java
+```ruby
 static class Node {
-    int data;
-    Node next;
+    int data;     // value
+    Node next;    // address of next node
     Node(int data) {
         this.data = data;
     }
+}
+```
+
+## Calling from main 
+
+```ruby
+static void main() {
+    Node n1 = new Node(20);
+    Node n2 = new Node(21);    // linking
+    n1.next = n2;
+    // n1 --> n2 --> null
 }
 ```
 
