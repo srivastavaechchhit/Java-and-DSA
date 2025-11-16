@@ -74,8 +74,8 @@ static class Node {
 ```ruby
 static void main() {
     Node n1 = new Node(20);
-    Node n2 = new Node(21);    // linking
-    n1.next = n2;
+    Node n2 = new Node(21);    
+    n1.next = n2;    // linking
     // n1 --> n2 --> null
 }
 ```
