@@ -89,3 +89,43 @@ static void main() {
 - When dynamic data structure is required
 
 ---
+
+## Limitations of Singly Linked Lists
+
+- Getting an element requires O(n) complexity.
+- Only head is given, so we need to traverse everytime.
+- We cannot move backwards.
+
+---
+
+# Doubly Linked List (DLL)
+ 
+In a doubly linked list, each node contains **three parts**: the data, a pointer to the next node, and a pointer to the previous node.
+
+* **Bidirectional Navigation:** You can traverse both forward and backward (using `prev`).
+* **Easier Deletions:** If you have a pointer to a node, you can delete it without traversing from the head to find its predecessor.
+* **Memory Overhead:** It requires more memory than a singly linked list because of the extra pointer per node.
+
+---
+
+## Node Structure
+
+```ruby
+static class Node {
+    int data;       // value
+    Node next;      // address of next node
+    Node prev;      // address of previous node
+```
+
+---
+
+## 2. Circular Linked List (CLL)
+
+A circular linked list is a variation where the **last node points back to the first node**, instead of pointing to `NULL`. This creates a continuous loop.
+
+* **Continuous Loop:** There is no "end" to the list; you can reach any node starting from any other node by traversing forward.
+* **Types:**
+* **Singly Circular:** Last node points to the first node.
+* **Doubly Circular:** Last node's `next` points to the first, and the first node's `prev` points to the last.
+
+---
