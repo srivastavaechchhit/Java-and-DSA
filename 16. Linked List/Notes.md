@@ -102,9 +102,10 @@ static void main() {
  
 In a doubly linked list, each node contains **three parts**: the data, a pointer to the next node, and a pointer to the previous node.
 
-* **Bidirectional Navigation:** You can traverse both forward and backward (using `prev`).
-* **Easier Deletions:** If you have a pointer to a node, you can delete it without traversing from the head to find its predecessor.
-* **Memory Overhead:** It requires more memory than a singly linked list because of the extra pointer per node.
+- **Bidirectional Navigation:** You can traverse both forward and backward (using `prev`).
+- **Easier Deletions:** If you have a pointer to a node, you can delete it without traversing from the head to find its predecessor.
+- **Memory Overhead:** It requires more memory than a singly linked list because of the extra pointer per node.
+<img width="907" height="186" alt="DLL1" src="https://github.com/user-attachments/assets/5ada6111-9a4a-4d64-8e28-83c6def04e7e" />
 
 ---
 
@@ -123,9 +124,10 @@ static class Node {
 
 A circular linked list is a variation where the **last node points back to the first node**, instead of pointing to `NULL`. This creates a continuous loop.
 
-* **Continuous Loop:** There is no "end" to the list; you can reach any node starting from any other node by traversing forward.
-* **Types:**
-* **Singly Circular:** Last node points to the first node.
-* **Doubly Circular:** Last node's `next` points to the first, and the first node's `prev` points to the last.
+### Types:
+- **Singly Circular:** Last node points to the first node.
+- **Doubly Circular:** Last node's `next` points to the first, and the first node's `prev` points to the last.
+<img width="804" height="189" alt="Circular-doubly-linked-list" src="https://github.com/user-attachments/assets/3533c8ca-4d07-4294-9aba-60a8fbc21968" />
+
 
 ---
