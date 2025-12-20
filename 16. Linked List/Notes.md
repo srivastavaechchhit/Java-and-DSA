@@ -116,6 +116,7 @@ static class Node {
     int data;       // value
     Node next;      // address of next node
     Node prev;      // address of previous node
+}
 ```
 
 ---
