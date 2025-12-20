@@ -39,6 +39,7 @@ This section contains my detailed notes from each lecture of the Java learning s
 - [Searching](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/13.%20Searching/Notes.md)
 - [String](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/14.%20Strings/Notes.md)
 - [Java OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/15.%20Java%20OOPs/Notes.md)
+- [Linked List](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/16.%20Linked%20List/Notes.md)
   
 - **...stay tuned!**
 
@@ -194,6 +195,15 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 
 </details>
 
+<details>
+  <summary>Linked List</summary>
+
+  - [Singly Linked List](https://github.com/user-attachments/files/24270398/Singly.Linked.List.pdf)
+  - [Problems on Singly Linked List](https://github.com/user-attachments/files/24270432/Problems.on.Singly.Linked.List.pdf)
+  - [Doubly and Circular Linked List](https://github.com/user-attachments/files/24270404/Doubly.and.Circular.Linked.List.pdf)
+
+</details>
+
 - **...stay tuned!**
 
 ---
@@ -222,7 +232,7 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [Searching](https://github.com/user-attachments/files/23314902/Binary.Search.pdf)
 - [String](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings)
 - [Java OOPs](https://github.com/user-attachments/files/23416765/Java.OOPs.pdf)
-
+- [Linked List](https://github.com/user-attachments/files/24270558/Linked.List.pdf)
   
 - **...stay tuned!**
 
@@ -374,6 +384,14 @@ Explore the assignments given throughout the course. Each assignment folder incl
 
   - [Java OOPs](https://github.com/user-attachments/files/23416651/Assignment.Questions.-.Java.OOPs.pdf)
 
+</details>
+
+<details>
+  <summary>Linked List</summary>
+
+  - [Singly Linked List](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/16.%20Linked%20List/Codes/1.%20Singly%20Linked%20List)
+  - [Doubly and Circular Linked List](https://github.com/user-attachments/files/24270568/Assignment.Questions.-.Doubly.Linked.List.pdf)
+  
 </details>
 
 - **...stay tuned!**
