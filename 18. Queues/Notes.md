@@ -1,6 +1,9 @@
 # Queues
   - A **Queue** is a linear data structure that operates strictly on the **FIFO (First In, First Out)** or **LILO (Last In, Last Out)** principle.
   - Elements are added at the rear end and removed from the front end.
+  - <img width="600" height="400" alt="java-queue" src="https://github.com/user-attachments/assets/9d90fbaf-fbc3-4e96-9d41-e00b29fedbfb" />
+
+---
 
 ## Key Pointers
   - **Front:** The index which elements are peeked, polled, or removed from.
@@ -15,6 +18,8 @@ In Java, `Queue` is an interface defined within `java.util`, meaning it cannot b
 Queue<Integer> q1 = new LinkedList<>();
 Queue<Integer> q2 = new ArrayDeque<>();
 ```
+
+---
 
 ## Method Mappings & Behavior
 
