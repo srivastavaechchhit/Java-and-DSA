@@ -40,6 +40,12 @@ This section contains my detailed notes from each lecture of the Java learning s
 - [String](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/14.%20Strings/Notes.md)
 - [Java OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/15.%20Java%20OOPs/Notes.md)
 - [Linked List](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/16.%20Linked%20List/Notes.md)
+- [Stacks](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/17.%20Stacks/Notes.md)
+- [Queues](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/18.%20Queues/Notes.md)
+- [Java Collections Framework](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/19.%20Java%20Collections%20Framework/Notes.md)
+- [HashMaps](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/20.%20HashMaps/Notes.md)
+- [HashSet](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/21.%20HashSet/Notes.md)
+- [BackTracking](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/22.%20Backtracking/Notes.md)
   
 - **...stay tuned!**
 
@@ -204,6 +210,48 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 
 </details>
 
+<details>
+  <summary>Stacks</summary>
+  
+  - [Stacks](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/17.%20Stacks/Notes.md)
+  
+</details>
+
+<details>
+  <summary>Queues</summary>
+  
+  - [Queues](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/18.%20Queues/Notes.md)
+  
+</details>
+
+<details>
+  <summary>Java Collections Framework</summary>
+  
+  - [Java Collections Framework](https://github.com/userattachments/files/34224465/Java.Collections.Framework.pdf)
+  
+</details>
+
+<details>
+  <summary>HashMaps</summary>
+  
+  - [HashMaps](https://github.com/user-attachments/files/34224566/HashMaps.pdf)
+
+</details>
+
+<details>
+  <summary>HashSet</summary>
+  
+  - [HashSet](https://github.com/user-attachments/files/34224681/HashSet.pdf)
+  
+</details>
+
+<details>
+  <summary>BackTracking</summary>
+  
+  - [BackTracking](https://github.com/user-attachments/files/34224697/BackTracking.pdf)
+
+</details>
+
 - **...stay tuned!**
 
 ---
@@ -233,6 +281,12 @@ Here, you'll find PDFs and additional textual notes provided during the course. 
 - [String](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings)
 - [Java OOPs](https://github.com/user-attachments/files/23416765/Java.OOPs.pdf)
 - [Linked List](https://github.com/user-attachments/files/24270558/Linked.List.pdf)
+- [Stacks](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/17.%20Stacks/Notes.md)
+- [Queues](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/18.%20Queues/Notes.md)
+- [Java Collections Framework](https://github.com/userattachments/files/34224465/Java.Collections.Framework.pdf)
+- [HashMaps](https://github.com/user-attachments/files/34224566/HashMaps.pdf)
+- [HashSet](https://github.com/user-attachments/files/34224681/HashSet.pdf)
+- [BackTracking](https://github.com/user-attachments/files/34224697/BackTracking.pdf)
   
 - **...stay tuned!**
 
@@ -392,6 +446,48 @@ Explore the assignments given throughout the course. Each assignment folder incl
   - [Singly Linked List](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/16.%20Linked%20List/Codes/1.%20Singly%20Linked%20List)
   - [Doubly and Circular Linked List](https://github.com/user-attachments/files/24270568/Assignment.Questions.-.Doubly.Linked.List.pdf)
   
+</details>
+
+<details>
+  <summary>Stacks</summary>
+  
+  - _Stacks_
+  
+</details>
+
+<details>
+  <summary>Queues</summary>
+  
+  - _Queues_
+  
+</details>
+
+<details>
+  <summary>Java Collections Framework</summary>
+  
+  - [Java Collections Framework](https://github.com/user-attachments/files/34224851/Assignment.Questions.-.Java.Collections.Framework.pdf)
+
+</details>
+
+<details>
+  <summary>HashMaps</summary>
+  
+  - [HashMaps](https://github.com/user-attachments/files/34224856/Assignment.Questions.-.HashMaps.pdf)
+
+</details>
+
+<details>
+  <summary>HashSet</summary>
+  
+  - [HashSet](https://github.com/user-attachments/files/34224976/Assignment.Questions.-.HashSet.pdf)
+  
+</details>
+
+<details>
+  <summary>BackTracking</summary>
+  
+  - [BackTracking](https://github.com/user-attachments/files/34225004/Assignment.Questions.-.BackTracking.pdf)
+
 </details>
 
 - **...stay tuned!**
