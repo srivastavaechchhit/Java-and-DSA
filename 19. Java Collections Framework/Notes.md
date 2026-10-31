@@ -205,7 +205,7 @@ for (var entry : map.entrySet()) {
 |PriorityQueue |Min/Max Priority | Min/Max Heap | $O(1)$ peek top |
 |HashSet | Unordered / Unique | Hash Table (Hashing) | $O(1)$ insertion & search |
 |LinkedHashSet | Insertion Order / Unique | Link List + Hash Table | $O(1)$ |
-|TreeSet | Sorted Order / Unique | Red-Black Tree (Self-Balancing BST) | $O(log N) |
+|TreeSet | Sorted Order / Unique | Red-Black Tree (Self-Balancing BST) | $O(log N)$ |
 |HashMap | Unordered Key-Value / Unique Keys | Hash Table | $O(1)$ average |
 
 ---
