@@ -15,37 +15,37 @@ Welcome to my **Java Learning Repository!** This repository documents my journey
 
 ---
 
-## 📝 **Short Notes**
+## 📖 Short Notes
 
 This section contains my detailed notes from each lecture of the Java learning series. Each lecture is organized into its own folder with notes in Markdown format.
 
-📂 **Topics Covered:**
-- [Introduction to Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/01.%20Introduction%20to%20Java/Notes.md)
-- [Variables and Data Types](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/02.%20Variables%20and%20Data%20Types/Notes.md)
-- [Taking Input in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/03.%20Taking%20Input%20in%20Java/Notes.md)
-- [Operators in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/04.%20Operators%20in%20Java/Notes.md)
-- [Conditionals in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/05.%20Conditionals%20in%20Java/Notes.md)
-- [Loops in Java](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/06.%20Loops%20in%20Java/Notes.md)
-- [Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/07.%20Number%20Systems/Notes.md)
-- [Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/08.%20Introduction%20to%20OOPs)
-  - [OOPs basics](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/08.%20Introduction%20to%20OOPs/OOPs%20basics/Notes.md)
-  - [Java Methods](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/08.%20Introduction%20to%20OOPs/Java%20Methods/Notes.md)
-- [Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/09.%20Arrays)
-  - [Single-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/09.%20Arrays/1.%20Single-dimensional%20Arrays/Notes.md)
-  - [Two-Dimensional Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/09.%20Arrays/2.%20Two-Dimensional%20Arrays/Notes.md)
-  - [Arraylists](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/09.%20Arrays/3.%20Arraylists/Notes.md)
-- [Recursion](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/11.%20Recursion/Notes.md)
-- [Sorting](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/12.%20Sorting/Notes.md)
-- [Searching](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/13.%20Searching/Notes.md)
-- [String](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/14.%20Strings/Notes.md)
-- [Java OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/15.%20Java%20OOPs/Notes.md)
-- [Linked List](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/16.%20Linked%20List/Notes.md)
-- [Stacks](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/17.%20Stacks/Notes.md)
-- [Queues](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/18.%20Queues/Notes.md)
-- [Java Collections Framework](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/19.%20Java%20Collections%20Framework/Notes.md)
-- [HashMaps](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/20.%20HashMaps/Notes.md)
-- [HashSet](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/21.%20HashSet/Notes.md)
-- [BackTracking](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/22.%20Backtracking/Notes.md)
+- **[01. Introduction to Java](docs/01-introduction-to-java.md)**
+- **[02. Variables and Data Types](docs/02-variables-and-data-types.md)**
+- **[03. Taking Input in Java](docs/03-taking-input.md)**
+- **[04. Operators in Java](docs/04-operators.md)**
+- **[05. Conditionals in Java](docs/05-conditionals.md)**
+- **[06. Loops in Java](docs/06-loops.md)**
+- **[07. Number Systems](docs/07-number-systems.md)**
+- **08. Introduction to OOPs**
+  - **[Java Methods](docs/08-java-methods.md)**
+  - **[OOPs basics](docs/08-oops-basics.md)**
+- **09. Arrays**
+  - **[1. Single-dimensional Arrays](docs/09-single-dimensional-arrays.md)**
+  - **[2. Two-Dimensional Arrays](docs/09-two-dimensional-arrays.md)**
+  - **[3. Arraylists](docs/09-arraylists.md)**
+- **[10. Time and Space Complexity](docs/10-time-and-space-complexity.md)**
+- **[11. Recursion](docs/11-recursion.md)**
+- **[12. Sorting](docs/12-sorting.md)**
+- **[13. Searching](docs/13-searching.md)**
+- **[14. Strings](docs/14-strings.md)**
+- **[15. Java OOPs](docs/15-java-oops.md)**
+- **[16. Linked List](docs/16-linked-list.md)**
+- **[17. Stacks](docs/17-stacks.md)**
+- **[18. Queues](docs/18-queues.md)**
+- **[19. Java Collections Framework](docs/19-collections-framework.md)**
+- **[20. HashMaps](docs/20-hashmaps.md)**
+- **[21. HashSet](docs/21-hashset.md)**
+- **[22. Backtracking](docs/22-backtracking.md)**
   
 - **...stay tuned!**
 
