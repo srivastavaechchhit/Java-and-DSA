@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+bin/
+
+# OS metadata
+.DS_Store
+Thumbs.db
