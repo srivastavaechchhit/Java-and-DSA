@@ -19,33 +19,33 @@ Welcome to my **Java Learning Repository!** This repository documents my journey
 
 This section contains my detailed notes from each lecture of the Java learning series. Each lecture is organized into its own folder with notes in Markdown format.
 
-- **[01. Introduction to Java](docs/01-introduction-to-java.md)**
-- **[02. Variables and Data Types](docs/02-variables-and-data-types.md)**
-- **[03. Taking Input in Java](docs/03-taking-input.md)**
-- **[04. Operators in Java](docs/04-operators.md)**
-- **[05. Conditionals in Java](docs/05-conditionals.md)**
-- **[06. Loops in Java](docs/06-loops.md)**
-- **[07. Number Systems](docs/07-number-systems.md)**
-- **08. Introduction to OOPs**
+- **[Introduction to Java](docs/01-introduction-to-java.md)**
+- **[Variables and Data Types](docs/02-variables-and-data-types.md)**
+- **[Taking Input in Java](docs/03-taking-input.md)**
+- **[Operators in Java](docs/04-operators.md)**
+- **[Conditionals in Java](docs/05-conditionals.md)**
+- **[Loops in Java](docs/06-loops.md)**
+- **[Number Systems](docs/07-number-systems.md)**
+- **Introduction to OOPs**
   - **[Java Methods](docs/08-java-methods.md)**
   - **[OOPs basics](docs/08-oops-basics.md)**
-- **09. Arrays**
-  - **[1. Single-dimensional Arrays](docs/09-single-dimensional-arrays.md)**
-  - **[2. Two-Dimensional Arrays](docs/09-two-dimensional-arrays.md)**
-  - **[3. Arraylists](docs/09-arraylists.md)**
-- **[10. Time and Space Complexity](docs/10-time-and-space-complexity.md)**
-- **[11. Recursion](docs/11-recursion.md)**
-- **[12. Sorting](docs/12-sorting.md)**
-- **[13. Searching](docs/13-searching.md)**
-- **[14. Strings](docs/14-strings.md)**
-- **[15. Java OOPs](docs/15-java-oops.md)**
-- **[16. Linked List](docs/16-linked-list.md)**
-- **[17. Stacks](docs/17-stacks.md)**
-- **[18. Queues](docs/18-queues.md)**
-- **[19. Java Collections Framework](docs/19-collections-framework.md)**
-- **[20. HashMaps](docs/20-hashmaps.md)**
-- **[21. HashSet](docs/21-hashset.md)**
-- **[22. Backtracking](docs/22-backtracking.md)**
+- **Arrays**
+  - **[Single-dimensional Arrays](docs/09-single-dimensional-arrays.md)**
+  - **[Two-Dimensional Arrays](docs/09-two-dimensional-arrays.md)**
+  - **[Arraylists](docs/09-arraylists.md)**
+- **[Time and Space Complexity](docs/10-time-and-space-complexity.md)**
+- **[Recursion](docs/11-recursion.md)**
+- **[Sorting](docs/12-sorting.md)**
+- **[Searching](docs/13-searching.md)**
+- **[Strings](docs/14-strings.md)**
+- **[Java OOPs](docs/15-java-oops.md)**
+- **[Linked List](docs/16-linked-list.md)**
+- **[Stacks](docs/17-stacks.md)**
+- **[Queues](docs/18-queues.md)**
+- **[Java Collections Framework](docs/19-collections-framework.md)**
+- **[HashMaps](docs/20-hashmaps.md)**
+- **[HashSet](docs/21-hashset.md)**
+- **[Backtracking](docs/22-backtracking.md)**
   
 - **...stay tuned!**
 
@@ -261,32 +261,32 @@ Here, you'll find notes organized by specific Java topics, making it easy to ref
 Here, you'll find PDFs and additional textual notes provided during the course. These resources supplement the topics and help reinforce concepts.
 
 📂 **Available Resources:**
-- [Introduction to Java](https://github.com/user-attachments/files/16499977/Introduction.to.Programming.pdf)
-- [Variables and Data Types](https://github.com/user-attachments/files/16500006/Java.Variables.and.Data.types.pdf)
-- [Taking Input in Java](https://github.com/user-attachments/files/16500027/Input.pdf)
-- [Operators in Java](https://github.com/user-attachments/files/16512908/Java.Operators.pdf)
-- [Conditionals in Java](https://github.com/user-attachments/files/16569321/Conditionals.pdf)
-- [Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)
-- [Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/07.%20Number%20Systems/Notes.md)
-- [Introduction to OOPs](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/08.%20Introduction%20to%20OOPs)
-  - [OOPs basics](https://github.com/user-attachments/files/16579568/Introduction.to.OOPs.pdf)
-  - [Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)
-- [Arrays](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/9.%20Arrays)
-  - [Single-Dimensional Arrays](https://github.com/user-attachments/files/16612179/Arrays.pdf)
-  - [Two-Dimensional Arrays](https://github.com/user-attachments/files/16744035/Two.Dimensional.Arrays.pdf)
-  - [Arraylists](https://github.com/user-attachments/files/16744073/Arraylist.in.Java.pdf)
-- [Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)
-- [Sorting](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)
-- [Searching](https://github.com/user-attachments/files/23314902/Binary.Search.pdf)
-- [String](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings)
-- [Java OOPs](https://github.com/user-attachments/files/23416765/Java.OOPs.pdf)
-- [Linked List](https://github.com/user-attachments/files/24270558/Linked.List.pdf)
-- [Stacks](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/17.%20Stacks/Notes.md)
-- [Queues](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/18.%20Queues/Notes.md)
-- [Java Collections Framework](https://github.com/userattachments/files/34224465/Java.Collections.Framework.pdf)
-- [HashMaps](https://github.com/user-attachments/files/34224566/HashMaps.pdf)
-- [HashSet](https://github.com/user-attachments/files/34224681/HashSet.pdf)
-- [BackTracking](https://github.com/user-attachments/files/34224697/BackTracking.pdf)
+- **[Introduction to Java](https://github.com/user-attachments/files/16499977/Introduction.to.Programming.pdf)**
+- **[Variables and Data Types](https://github.com/user-attachments/files/16500006/Java.Variables.and.Data.types.pdf)**
+- **[Taking Input in Java](https://github.com/user-attachments/files/16500027/Input.pdf)**
+- **[Operators in Java](https://github.com/user-attachments/files/16512908/Java.Operators.pdf)**
+- **[Conditionals in Java](https://github.com/user-attachments/files/16569321/Conditionals.pdf)**
+- **[Loops in Java](https://github.com/user-attachments/files/16569342/Loops.pdf)**
+- **[Number Systems](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/07.%20Number%20Systems/Notes.md)**
+- **Introduction to OOPs**
+  - **[OOPs basics](https://github.com/user-attachments/files/16579568/Introduction.to.OOPs.pdf)**
+  - **[Java Methods](https://github.com/user-attachments/files/16579566/Java.Methods.pdf)**
+- **Arrays**
+  - **[Single-Dimensional Arrays](https://github.com/user-attachments/files/16612179/Arrays.pdf)**
+  - **[Two-Dimensional Arrays](https://github.com/user-attachments/files/16744035/Two.Dimensional.Arrays.pdf)**
+  - **[Arraylists](https://github.com/user-attachments/files/16744073/Arraylist.in.Java.pdf)**
+- **[Recursion](https://github.com/user-attachments/files/16906585/Recursion.pdf)**
+- **[Sorting](https://github.com/user-attachments/files/23205810/Sorting.Algorithms.pdf)**
+- **[Searching](https://github.com/user-attachments/files/23314902/Binary.Search.pdf)**
+- **[String](https://github.com/srivastavaechchhit/Java-and-DSA/tree/main/14.%20Strings)**
+- **[Java OOPs](https://github.com/user-attachments/files/23416765/Java.OOPs.pdf)**
+- **[Linked List](https://github.com/user-attachments/files/24270558/Linked.List.pdf)**
+- **[Stacks](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/17.%20Stacks/Notes.md)**
+- **[Queues](https://github.com/srivastavaechchhit/Java-and-DSA/blob/main/18.%20Queues/Notes.md)**
+- **[Java Collections Framework](https://github.com/userattachments/files/34224465/Java.Collections.Framework.pdf)**
+- **[HashMaps](https://github.com/user-attachments/files/34224566/HashMaps.pdf)**
+- **[HashSet](https://github.com/user-attachments/files/34224681/HashSet.pdf)**
+- **[BackTracking](https://github.com/user-attachments/files/34224697/BackTracking.pdf)**
   
 - **...stay tuned!**
 
